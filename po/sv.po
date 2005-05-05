@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-05 10:24+0200\n"
-"PO-Revision-Date: 2005-05-05 02:14+0200\n"
+"PO-Revision-Date: 2005-05-05 12:55+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -37,16 +37,14 @@ msgid "Admiral"
 msgstr "Amiral"
 
 #: Saving_Elensefar.cfg:17
-#, fuzzy
 msgid ""
 "Meneldur, elvish mariner of Elensefar, is driven to sea by the same orcs who "
 "attacked the city. He must gather an army willing to fight for him to "
 "regain  Elensefar, his adopted homeland.\n"
 msgstr ""
 "Meneldur, alvsjöman från Elensefar, fördrivs till sjöss av samma orcher som "
-"anföll staden. Han måste samla ihop en armé som är villig att slåss för att "
-"återta Elensefar, hans hem.\n"
-"(Version 0.8.2, 2005-04-23)"
+"anfaller staden. Han måste samla ihop en armé som är villig att slåss för "
+"att återta Elensefar, hans hem.\n"
 
 #: Saving_Elensefar/scenarios/A_Kings_Demand.cfg:3
 msgid "A King's Demand"
@@ -469,15 +467,16 @@ msgid "Blackmore the Black"
 msgstr "Blackmore den Svarte"
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:105
-#, fuzzy
 msgid "Death of Ah-Reblak"
-msgstr "Meneldur dör"
+msgstr "Ah-Reblak dör"
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:127
 msgid ""
 "Black, why have you brought us here?!? This is just a remnant of a town, and "
 "there are no warriors here, just undead and orcs!"
 msgstr ""
+"Black, varför tog du oss hit? Det här är ju bara de raserade resterna av en "
+"stad, och det finns inga krigare här - bara vandöda och orcher!"
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:131
 msgid ""
@@ -485,72 +484,92 @@ msgid ""
 "Black, and for the past seventy years it has been the home of the Wesfolk "
 "who remained on this island."
 msgstr ""
+"Nej, nej, du har fel. Det här är ingen ruinstad. Det här är Blackmore den "
+"Svarte, och de senaste sjuttio åren har det varit hemmet för de av "
+"wesfolkets som stannade kvar på ön."
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:135
 msgid ""
 "You mean those undead over there are 'Wesfolk'? As in the Wesfolk who came "
 "over with Lady Jessica?"
 msgstr ""
+"Menar du att de vandöda där borta är 'wesfolk'? Som i det wesfolk som kom "
+"hit med Lady Jessica?"
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:139
 msgid ""
 "I would assume that is what he means, yes. So, Black, you've brought us here "
 "to have these Wesfolk help us?"
 msgstr ""
+"Jag antar att det är det han menar, ja. Så, Black, förde du oss hit för att "
+"dessa wesfolk skulle hjälpa oss?"
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:143
 msgid "Well, yes, something like that."
-msgstr ""
+msgstr "Hm, ja, någonting ditåt."
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:147
 msgid ""
 "I see, brother, that you have returned with warriors. Are they to help us "
 "defeat these orcs?"
 msgstr ""
+"Jag ser att du har återvänt med krigare. Ska de hjälpa oss att besegra "
+"orcherna?"
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:151
 msgid "What? That's not why we're here!"
-msgstr ""
+msgstr "Vad? Det är inte därför vi är här!"
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:155
 msgid ""
 "Well, yes it is. You have to help them secure this city before they will "
 "help you."
 msgstr ""
+"Jo, det är det. Ni måste hjälpa dem att säkra staden innan de hjälper er."
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:159
 msgid "Help them? Help Islefolk? Why would we do that?"
-msgstr ""
+msgstr "Hjälpa dem? Hjälpa öfolk? Varför skulle vi göra det?"
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:163
 msgid ""
 "These are not Islefolk, brother, they are descendants of the Wesfolk who "
 "came over with Lady Jessica."
 msgstr ""
+"Detta är inte öfolk. Detta är ättlingarna till de av wesfolket som kom hit "
+"med Lady Jessica."
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:167
 msgid ""
 "What!? Followers of that deserter!? I can't believe you think we would help "
 "them!"
 msgstr ""
+"Vad?! Anhängare till den där desertören?! Jag begriper inte hur du kan tro "
+"att vi hjälper dem!"
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:171
 msgid ""
 "I didn't have a choice, they needed help, so I made a deal that we would "
 "help them if they helped us."
 msgstr ""
+"Jag hade inget val. De behövde hjälp själva, så jag träffade ett avtal med "
+"dem, om att vi skulle hjälpa dem om de hjälpte oss först."
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:175
 msgid ""
 "Trust me, we don't like helping undead any more than you like helping us "
 "'deserters'."
 msgstr ""
+"Lita på mig, vi tycker inte om att hjälpa vandöda än ni tycker om att hjälpa "
+"oss 'desertörer'."
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:179
 msgid ""
 "Fine. I'll help you do whatever it is you want to do, once we clear this "
 "land of the orcs."
 msgstr ""
+"Då så. Jag hjälper er med vad det nu är så snart vi rensat ut orcherna ur "
+"det här landet."
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:183
 msgid "Int'resting council! But now, little men, its time to die. Get'm!"
@@ -561,6 +580,7 @@ msgid ""
 "Well, we've cleared the orcs away. Come on, now you have to hold up your end "
 "of the bargain."
 msgstr ""
+"Så, då är orcherna borta. Sätt fart, nu är det er tur att uppfylla avtalet."
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:211
 msgid ""
@@ -568,12 +588,17 @@ msgid ""
 "dangerously close! We have to push them back to a safe distance before I "
 "would agree to divert troops away from here to help you."
 msgstr ""
+"Inte så fort! Orcherna belägrar inte staden längre, men de är fortfarande "
+"farligt nära! Vi måste trycka tillbaka dem ännu mer innan jag avsätter "
+"trupper för att hjälpa er."
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:215
 msgid ""
 "Fine. We'll help you a bit longer, but then you'd better make good on your "
 "promise!"
 msgstr ""
+"Okej då. Vi hjälper er lite till, men sedan är det bäst för dig att du lever "
+"upp till ditt ord!"
 
 #: Saving_Elensefar/scenarios/Deadly_Alliance.cfg:3
 msgid "A Deadly Alliance"
@@ -1745,14 +1770,13 @@ msgstr ""
 "mannar i den stora flodens delta, där Elensefar låg."
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:66
-#, fuzzy
 msgid ""
 "Well, now we are in the port of Elensefar... It is time to retake Elensefar, "
 "as we aided Blackmore. So... does anyone have an idea as to how to attack "
 "the city?"
 msgstr ""
 "Vi är framme i Elensefars hamn... Det är dags att återta Elensefar, såsom vi "
-"bistod Blackmore. Vad tror ni är bästa sättet att anfalla staden på? Någon?"
+"bistod Blackmore. Vad tror ni är bästa sättet att anfalla staden på?"
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:70
 msgid ""
@@ -1773,6 +1797,8 @@ msgid ""
 "Uhm... no, probably not. But we would be rather secretive, they probably "
 "wouldn't notice us."
 msgstr ""
+"Hm... Nej, antagligen inte. Men om vi är tillräckligt tysta, då märker de "
+"oss säkert inte ändå."
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:86
 msgid "Madru, do you have any suggestions?"
@@ -1791,10 +1817,11 @@ msgid "But won't they see us there?"
 msgstr "Men kommer de inte att se oss där?"
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:102
-#, fuzzy
 msgid ""
 "Yes, but what's wrong with a head on battle? I think we could defeat them."
-msgstr "Ja, men vad är det för fel på rättfram strid?"
+msgstr ""
+"Ja, men vad är det för fel på rättfram strid? Jag tror vi skulle kunna "
+"besegra dem."
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:106
 msgid ""
@@ -1818,25 +1845,26 @@ msgstr ""
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:118
 msgid "Hm... you are right there. Which plan should we use?"
-msgstr ""
+msgstr "Hm... Det har du rätt i. Vilken plan ska vi använda då?"
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:120
 msgid "I say we head north, as you proposed."
-msgstr ""
+msgstr "Jag tycker vi går norrut, som du föreslog."
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:129
 msgid "Madru's plan to head south sounds the best."
-msgstr ""
+msgstr "Madrus plan att gå söderut låter bra."
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:138
 msgid ""
 "Both of your plans were good, but I will stick to my own, and land in the "
 "harbor."
 msgstr ""
+"Båda era planer är bra, men jag vidhåller min egen, och landstiger i hamnen."
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:149
 msgid "Very well. Let us not waste any more time, we must fight now."
-msgstr ""
+msgstr "Nåväl. Nu får vi sätta fart."
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:3
 msgid "Epilogue"
@@ -1859,7 +1887,6 @@ msgstr ""
 "efterföljande månaderna."
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:44
-#, fuzzy
 msgid ""
 "The three rescuers told him their tale, of how Elensefar was no longer a "
 "province of Wesnoth, and of how Undead were temporarily 'living' in the "
@@ -1902,7 +1929,6 @@ msgid "They were willing to sacrifice a whole city to get revenge on one elf?"
 msgstr "De var villiga att offra en hel stad för att hämnas på en alv?"
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:74
-#, fuzzy
 msgid ""
 "That may not be the only reason. They did not initially instigate the orcish "
 "attack; as far as we can tell, their alliance came afterwards. And it was "
@@ -1910,9 +1936,11 @@ msgid ""
 "not possibly defeat the orcs, so they made a peace treaty with them in order "
 "to not be attacked themselves."
 msgstr ""
-"Det är kanske inte det enda skälet. De anstiftade inte orchernas attack så "
-"vitt vi kan bedöma. Deras allians bildades efteråt. De kanske gick samman "
-"med orcherna för att inte bli själva bli anfallna."
+"Det är kanske inte det enda skälet. Så vitt vi kan bedöma så var det inte de "
+"som anstiftade inte orchernas attack. Deras allians bildades efteråt. Och "
+"det verkar inte ha varit en riktig allians. Alverna trodde att de inte "
+"skulle kunna besegra orcherna, så de gick samman med dem för att inte bli "
+"själva bli anfallna."
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:78
 msgid ""
@@ -1943,7 +1971,6 @@ msgid "None of us are saying they did not."
 msgstr "Ingen av oss säger att de inte gjorde det."
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:94
-#, fuzzy
 msgid ""
 "I would. We do not know the circumstances of the alliance, nor even to say "
 "whether the alliance itself was evil. After all, our alliance with undead is "
@@ -1955,16 +1982,14 @@ msgstr ""
 "förutsättningarna är snarlika."
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:98
-#, fuzzy
 msgid ""
 "They are only similar if you assume that undead are evil. Some are, true, "
 "but not all. Mine and my brother's are not."
 msgstr ""
 "De är bara snarlika om du förutsätter att vandöda är onda. Vissa är det, "
-"givetvis, men inte alla. Mina är det inte."
+"givetvis, men inte alla. De som jag och min bror kommenderar är det inte."
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:102
-#, fuzzy
 msgid ""
 "I may be your ally, but I will never say your undead are not evil. You are "
 "probably not, probably you are just decieved as to what really occurs with "
@@ -1972,7 +1997,7 @@ msgid ""
 msgstr ""
 "Jag må vara din allierade, men jag kommer aldrig att påstå att dina vandöda "
 "inte är onda. Du är det förmodligen inte, du är bara vilseledd om vad som "
-"verkligen händer med vandöda, men vandöda är onda."
+"verkligen händer med vandöda. Men vandöda är onda."
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:106
 msgid ""
@@ -2011,7 +2036,6 @@ msgstr ""
 "ha planerat det så."
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:126
-#, fuzzy
 msgid "That is called treachery, and would not excuse alliance with the orcs."
 msgstr ""
 "Det kallas förräderi och är inte en ursäkt för att gå samman med ondskan."
@@ -2031,13 +2055,12 @@ msgstr ""
 "ge dem möjlighet att skaffa sig provinser i norr utan motstånd."
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:134
-#, fuzzy
 msgid ""
 "Possibly. However, all of this is just speculation. We cannot know why they "
 "actually attacked us, can we? We can only guess."
 msgstr ""
-"Fascinerande teori. Självklart är allt bara spekulationer. Vi kan så klart "
-"inte veta varför de anföll oss egentligen."
+"Kanske var det så. Självklart är allt bara spekulationer. Vi kan så klart "
+"inte veta varför de anföll oss egentligen, eller hur? Vi kan bara gissa."
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:138
 msgid "Which is why this is rather pointless."
@@ -2205,315 +2228,3 @@ msgstr ""
 "Wesnoths kungliga flotta utgörs av mäktiga galleoner som var och en är "
 "utrustad med flera ballistor. Deras uppgift är att jaga pirater - eller "
 "vilka de nu får för sig att kalla pirater - och förgöra dem."
-
-#~ msgid ""
-#~ "Where are these warriors you speak of? All I see is a Lich fighting "
-#~ "against an Orcish tribe. Are they hiding somewhere?"
-#~ msgstr ""
-#~ "Var är de där krigarna du talar om? Allt jag kan se är en häxmästare som "
-#~ "slåss mot en hord orcher. Gömmer de sig någonstans?"
-
-#~ msgid ""
-#~ "No, you see them already. Hey, Ah-Reblak, its your brother Blakre! Say "
-#~ "hello to our guests."
-#~ msgstr ""
-#~ "Nej, du ser dem redan. Hallå, Ah-Reblak, det är din bror Blakre! Kom och "
-#~ "hälsa på våra gäster."
-
-#~ msgid "Blakre?"
-#~ msgstr "Blakre?"
-
-#~ msgid ""
-#~ "Its Wesfolk for Black the Red, as Ah-Reblak is Wesfolk for Lord Red the "
-#~ "Black. It seems my brother has become a Lich while I was gone!"
-#~ msgstr ""
-#~ "Det är wesnothiska för Black Röde, precis som Ah-Reblak är wesnothiska "
-#~ "för furst Red den Svarte. Min bror verkar ha blivit en häxmästare medan "
-#~ "jag varit borta!"
-
-#~ msgid ""
-#~ "Greetings, Blakre! Your reinforcements will be very useful. I though we "
-#~ "were doomed; these Orcs just got reinforcements from the gates."
-#~ msgstr ""
-#~ "Välkommen, Blakre! Din förstärkning kommer att bli mycket användbar. Jag "
-#~ "trodde att det var ute med oss; orcherna fick just förstärkningar."
-
-#~ msgid ""
-#~ "So, Black the Red, is this the favor you want from us? To have us help "
-#~ "your people survive the attack of these orcs?"
-#~ msgstr ""
-#~ "Så, Black Röde, är det detta du ville ha av oss? Att vi hjälper ditt folk "
-#~ "att överleva attacken från orcherna?"
-
-#~ msgid ""
-#~ "Yes. Help us regain Blackmore for the Wesfolk, and Ah-Reblak's undead "
-#~ "warriors will return with us and help save Elensefar."
-#~ msgstr ""
-#~ "Ja. Hjälp oss att återta Blackmore åt wesfolket, så kommer Ah-Reblaks "
-#~ "vandöda krigare att återvända med oss och hjälpa till att rädda Elensefar."
-
-#~ msgid "Yes. If you help us, we will help you."
-#~ msgstr "Ja. Om du hjälper oss så hjälper vi dig."
-
-#~ msgid ""
-#~ "Why would I ever ally with a necromancer? All the stories say they are "
-#~ "evil. And, if I wanted to ally with one, why not with one of the ones we "
-#~ "met on the way over here?"
-#~ msgstr ""
-#~ "Varför skulle jag någonsin liera mig med en nekromantiker? Alla "
-#~ "berättelser vittnar om deras ondska. Och om jag nu skulle göra det, "
-#~ "varför inte med någon av dem som vi mötte på vägen hit?"
-
-#~ msgid ""
-#~ "You must help us because you, or at least Meneldur, agreed to earlier."
-#~ msgstr ""
-#~ "Du måste hjälpa oss för att du, eller i alla fall Meneldur, gick med på "
-#~ "det tidigare."
-
-#~ msgid ""
-#~ "We will help you. Even if you are a necromancer, you are an honorable "
-#~ "warrior. And I would not want to have it seem that my word means nothing "
-#~ "to me."
-#~ msgstr ""
-#~ "Vi ska hjälpa dig. Även om du är en nekromantiker så är du en ärbar "
-#~ "krigare. Jag vill inte att det ska se ut som att mitt ord inte är något "
-#~ "värt för mig."
-
-#~ msgid ""
-#~ "If Meneldur will help you, so will I, but not happily. The sooner this is "
-#~ "done, the sooner we can get away from the undead. Let us waste no more "
-#~ "words, and instead fight!"
-#~ msgstr ""
-#~ "Om Meneldur ska hjälpa dig, så kommer jag också göra det, men inte utan "
-#~ "tvekan. Ju snabbare vi är klara här, desto tidigare kan vi komma bort "
-#~ "från de vandöda. Nog med ord, nu slåss vi!"
-
-#~ msgid ""
-#~ "Well, Black the Red are you and your friend ready to return to Elensefar?"
-#~ msgstr ""
-#~ "Nå, Black Röde, är du och din vän redo att återvända till Elensefar?"
-
-#~ msgid ""
-#~ "Well, Ah-Reblak, if you will permit it, will be staying here to help "
-#~ "reorder Blackmore and prepare it for the next orcish assault... but the "
-#~ "undead warriors he is sending with us are ready to leave."
-#~ msgstr ""
-#~ "Tja, Ah-Reblak, om du tillåter det, så stannar jag här för att hjälpa "
-#~ "till att ordna upp Blackmore och förbereda det inför nästa "
-#~ "orcherattack... Men de vandöda krigarna han skickar med oss är redo att "
-#~ "åka."
-
-#~ msgid ""
-#~ "I will permit that. It is probably better, actually, since this way my "
-#~ "men and he won't get into battles. Alright, load the undead into the "
-#~ "cargo hold."
-#~ msgstr ""
-#~ "Du har min tillåtelse. Det är förmodligen bättre ändå, för på det här "
-#~ "sättet så kommer inte mina och hans mannar att hamna i strid. Okej, lasta "
-#~ "de vandöda i lastutrymmet."
-
-#~ msgid ""
-#~ "We have come to take back the city of Elensefar! Orcs, prepare to die!"
-#~ msgstr "Vi har kommit för att återta Elensefar! Orcher, bered er på att dö!"
-
-#~ msgid ""
-#~ "Ha! stupid elf and his man-friends think they can fight against the might "
-#~ "of all three races?!?"
-#~ msgstr ""
-#~ "Ha! En korkad alv och hans människovänner tror att de kan slåss mot alla "
-#~ "tre raserna?!?"
-
-#~ msgid ""
-#~ "But what's this? You seem to have some kind of Undead with you... even "
-#~ "you wouldn't stoop so low, Meneldur!"
-#~ msgstr ""
-#~ "Men vad är det här? Har ni någon sorts vandöda med er...? Inte ens du "
-#~ "skulle falla så lågt, Meneldur!"
-
-#~ msgid ""
-#~ "No lower than you have, I would say; and at least Undead were once human."
-#~ msgstr ""
-#~ "Inte lägre än du, skulle jag tro; de vandöda var åtminstone människor en "
-#~ "gång."
-
-#~ msgid ""
-#~ "But orcs are still living. And we joined with them to defeat a common "
-#~ "foe; you joined with these Undead to regain a city that is not rightfully "
-#~ "yours, and fought against your own country in doing it!"
-#~ msgstr ""
-#~ "Men orcherna lever fortfarande. Vi förenade oss med dem för att besegra "
-#~ "en gemensam fiende. Du anslöt dig till de vandöda för att återta en stad "
-#~ "som inte är rättmätigt din, och du slogs mot ditt eget land under tiden!"
-
-#~ msgid ""
-#~ "Well, I come from the Green Isle, and from what I've seen Meneldur has "
-#~ "the higher ground. And Undeath is not as bad as you seem to think; we are "
-#~ "not evil."
-#~ msgstr ""
-#~ "Ja, jag kommer från Gröna ön och av vad jag har sett så verkar Meneldur "
-#~ "ha gjort rätt. Vandöda är inte så illa som du verkar tro; vi är inte onda."
-
-#~ msgid ""
-#~ "Hey, look, its that pirate from Elensefar who was attacking our ships. I "
-#~ "guess we'll capture the small fish as well as the big."
-#~ msgstr ""
-#~ "Hallå, titta, det är piraten från Elensefar som anföll våra skepp. Vi "
-#~ "kommer visst att fånga både stora och små fiskar idag."
-
-#~ msgid ""
-#~ "Well, these undead were forced upon us. And in any case, they are not all "
-#~ "evil. Elves and men, shouldn't we defeat this orc before we begin "
-#~ "fighting among ourselves?"
-#~ msgstr ""
-#~ "Dessa vandöda tvingades på oss. Och hur som helst så är de inte onda. "
-#~ "Alver och människor, borde vi inte besegra orcherna innan vi börjar slåss "
-#~ "inbördes?"
-
-#~ msgid ""
-#~ "Well, we would (maybe), but it seems we have a pact with the orcs to "
-#~ "defeat you first. But, since you've allied with Undead, us doing that "
-#~ "isn't that big a deal!"
-#~ msgstr ""
-#~ "Nå, det skulle vi kanske kunna göra, men vi har visst ett avtal med "
-#~ "orcherna att besegra dig först. Men eftersom du har lierat dig med "
-#~ "vandöda så spelar det ju ingen roll om det är vi!"
-
-#~ msgid ""
-#~ "Well, um... (Meneldur! What's our reason for allying with undead again?)"
-#~ msgstr ""
-#~ "Nå, hum... (Meneldur! Vad var skälet till att vi förenade oss med de "
-#~ "vandöda igen?)"
-
-#~ msgid ""
-#~ "Well, undead are not all evil. And Black the Red forced us to ally with "
-#~ "them."
-#~ msgstr ""
-#~ "Nå, alla vandöda är inte onda. Och Black Röde tvingade oss att gå samman "
-#~ "med dem."
-
-#~ msgid ""
-#~ "Black the Red? That's the same pirate that was reported earlier as "
-#~ "burning our ships. So that's where he has been."
-#~ msgstr ""
-#~ "Black Röde! Det är samma pirat som har rapporterats bränna våra skepp. Då "
-#~ "är det där han har hållit hus."
-
-#~ msgid ""
-#~ "Yes, how kind of you to notice, I am that 'pirate' you speak of. I'm not "
-#~ "sure what you thought I did to your ship, but whatever it was I would "
-#~ "actually do it this time, given your reaction."
-#~ msgstr ""
-#~ "Ja, så snällt av er att märka det. Jag är 'piraten' ni talar om. Jag vet "
-#~ "inte riktigt vad ni tror att jag gjorde med ert skepp, men vad det än var "
-#~ "så skulle jag gärna göra det nu."
-
-#~ msgid ""
-#~ "You're a sorcerer. You bewitched our ship and plagued it with evil "
-#~ "spirits, just like the ones you bring here."
-#~ msgstr ""
-#~ "Du är en besvärjare. Du förhäxade vårt skepp och förpestade det med onda "
-#~ "andar, sådana som de du har tagit med hit."
-
-#~ msgid ""
-#~ "Fine, you can believe that, if it pleases you; you won't have long to "
-#~ "live either way."
-#~ msgstr ""
-#~ "Visst, tro det om det passar dig. Du har inte länge kvar att leva ändå."
-
-#~ msgid ""
-#~ "Enough talking. Undead, Elves and Men - attack those who stop us from "
-#~ "achieving our goal!"
-#~ msgstr ""
-#~ "Nog med prat. Vandöda, alver och människor - anfall de som försöker "
-#~ "stoppa oss från att nå vårt mål!"
-
-#~ msgid "Ay!"
-#~ msgstr "Ajaj!"
-
-#~ msgid "Attack!"
-#~ msgstr "Attack!"
-
-#~ msgid "Agk, whatever... KILL THEM!"
-#~ msgstr "Ackh, nåväl... DÖDA DEM!"
-
-#~ msgid "Uhm... no, probably not."
-#~ msgstr "Hm... Nej, antagligen inte."
-
-#~ msgid ""
-#~ "Well, how's this - we split the crew up three ways, and each try our own "
-#~ "method. Hopefully at least one will succeed. And if youget in trouble, "
-#~ "you can get back in your boat and join one of the other attacks."
-#~ msgstr ""
-#~ "Nå, vi gör så här. Vi delar upp besättningen i tre delar, och varje grupp "
-#~ "försöker med vardera metoden. Förhoppningsvis så kommer minst en av oss "
-#~ "att lyckas. Och om ni råkar i trubbel så kan ni ta er tillbaka till er "
-#~ "båt och hjälpa någon av de andra attackerna."
-
-#~ msgid "Sounds acceptable to me."
-#~ msgstr "Låter bra, tycker jag."
-
-#~ msgid "Me too."
-#~ msgstr "Jag med."
-
-#~ msgid ""
-#~ "Very well then, that's what we'll do. Black the Red, take one of the "
-#~ "boats north, with the bandits and undead. Madru, go south with the main "
-#~ "human crew. I'll go due east with my Elves..."
-#~ msgstr ""
-#~ "Bra, bra, då gör vi så. Black Röde tar en av båtarna norrut med "
-#~ "banditerna och de vandöda. Madru, far söderut med huvuddelen av den "
-#~ "mänskliga besättningen. Jag tar mig österut med mina alver..."
-
-#~ msgid "Ahnnhnnhn..."
-#~ msgstr "Ahnnhnnhn..."
-
-#~ msgid "Ughnnnhnnhn..."
-#~ msgstr "Ughnnnhnnhn..."
-
-#~ msgid "Ughnhnhnhhn..."
-#~ msgstr "Ughnhnhnhhn..."
-
-#~ msgid "Ahnanzz..."
-#~ msgstr "Ahnanzz..."
-
-#~ msgid "Do you really want to run away?"
-#~ msgstr "Är du säker på att du vill fly?"
-
-#~ msgid "Yes"
-#~ msgstr "Ja"
-
-#~ msgid "Fall back!"
-#~ msgstr "Retirera!"
-
-#~ msgid "No"
-#~ msgstr "Nej"
-
-#~ msgid "Fight on!"
-#~ msgstr "Fortsätt slåss!"
-
-#~ msgid "loyal"
-#~ msgstr "lojal"
-
-#~ msgid "strong"
-#~ msgstr "stark"
-
-#~ msgid "quick"
-#~ msgstr "snabb"
-
-#~ msgid "intelligent"
-#~ msgstr "intelligent"
-
-#~ msgid "resilient"
-#~ msgstr "stryktålig"
-
-#~ msgid "{DESC}"
-#~ msgstr "{DESC}"
-
-#~ msgid "Bandit"
-#~ msgstr "Bandit"
-
-#~ msgid ""
-#~ "Armed with heavy mace, Bandits are adept at robbing and killing at night."
-#~ msgstr ""
-#~ "Beväpnade med tunga spikklubbor är banditerna experter på att råna och "
-#~ "mörda på natten."
