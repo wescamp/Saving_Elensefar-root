@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-03 10:07+0200\n"
+"POT-Creation-Date: 2005-05-05 10:24+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1204,88 +1204,16 @@ msgstr ""
 msgid "Very well. I suppose this council is ended, and the real work of Daharan's reign shall begin."
 msgstr ""
 
-#: ./Saving_Elensefar/scenarios/utils.cfg:13
-msgid "Ahnnhnnhn..."
-msgstr ""
-
-#: ./Saving_Elensefar/scenarios/utils.cfg:26
-msgid "Ughnnnhnnhn..."
-msgstr ""
-
-#: ./Saving_Elensefar/scenarios/utils.cfg:39
-msgid "Ughnhnhnhhn..."
-msgstr ""
-
-#: ./Saving_Elensefar/scenarios/utils.cfg:52
-msgid "Ahnanzz..."
-msgstr ""
-
-#: ./Saving_Elensefar/scenarios/utils.cfg:97
-msgid "Do you really want to run away?"
-msgstr ""
-
-#: ./Saving_Elensefar/scenarios/utils.cfg:99
-msgid "Yes"
-msgstr ""
-
-#: ./Saving_Elensefar/scenarios/utils.cfg:103
-msgid "Fall back!"
-msgstr ""
-
-#: ./Saving_Elensefar/scenarios/utils.cfg:120
-msgid "No"
-msgstr ""
-
-#: ./Saving_Elensefar/scenarios/utils.cfg:124
-msgid "Fight on!"
-msgstr ""
-
-#: ./Saving_Elensefar/scenarios/utils.cfg:186
-msgid "loyal"
-msgstr ""
-
-#: ./Saving_Elensefar/scenarios/utils.cfg:196
-msgid "strong"
-msgstr ""
-
-#: ./Saving_Elensefar/scenarios/utils.cfg:213
-msgid "quick"
-msgstr ""
-
-#: ./Saving_Elensefar/scenarios/utils.cfg:229
-msgid "intelligent"
-msgstr ""
-
-#: ./Saving_Elensefar/scenarios/utils.cfg:240
-msgid "resilient"
-msgstr ""
-
-#: ./Saving_Elensefar/scenarios/utils.cfg:259
-msgid "{DESC}"
-msgstr ""
-
-#: ./Saving_Elensefar/units/Bandit.cfg:5
-msgid "Bandit"
-msgstr ""
-
-#: ./Saving_Elensefar/units/Bandit.cfg:24
-msgid "Armed with heavy mace, Bandits are adept at robbing and killing at night."
-msgstr ""
-
-#: ./Saving_Elensefar/units/Bandit.cfg:27 ./Saving_Elensefar/units/Highwayman.cfg:20
-msgid "mace"
-msgstr ""
-
-#: ./Saving_Elensefar/units/Elvish_Navigator.cfg:21 ./Saving_Elensefar/units/Black_Galleon.cfg:25 ./Saving_Elensefar/units/Elvish_Mariner.cfg:22 ./Saving_Elensefar/units/Bandit.cfg:28 ./Saving_Elensefar/units/Elvish_Admiral.cfg:24 ./Saving_Elensefar/units/Highwayman.cfg:21 ./Saving_Elensefar/units/Shadow_Lord.cfg:140 ./Saving_Elensefar/units/War_Galleon.cfg:25
-msgid "impact"
-msgstr ""
-
 #: ./Saving_Elensefar/units/Black_Galleon.cfg:4
 msgid "Black Galleon"
 msgstr ""
 
 #: ./Saving_Elensefar/units/Black_Galleon.cfg:24 ./Saving_Elensefar/units/War_Galleon.cfg:24
 msgid "ballista"
+msgstr ""
+
+#: ./Saving_Elensefar/units/Elvish_Navigator.cfg:21 ./Saving_Elensefar/units/Black_Galleon.cfg:25 ./Saving_Elensefar/units/Elvish_Mariner.cfg:22 ./Saving_Elensefar/units/Elvish_Admiral.cfg:24 ./Saving_Elensefar/units/Highwayman.cfg:21 ./Saving_Elensefar/units/Shadow_Lord.cfg:140 ./Saving_Elensefar/units/War_Galleon.cfg:25
+msgid "impact"
 msgstr ""
 
 #: ./Saving_Elensefar/units/Duelist.cfg:4
@@ -1342,6 +1270,10 @@ msgstr ""
 
 #: ./Saving_Elensefar/units/Highwayman.cfg:17
 msgid "Armed with heavy mace, Highwaymen are the last people you want to meet on a deserted road late at night."
+msgstr ""
+
+#: ./Saving_Elensefar/units/Highwayman.cfg:20
+msgid "mace"
 msgstr ""
 
 #: ./Saving_Elensefar/units/Shadow_Lord.cfg:4
