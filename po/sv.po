@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-05 10:24+0200\n"
-"PO-Revision-Date: 2005-05-05 12:55+0200\n"
+"PO-Revision-Date: 2005-05-09 11:39+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -982,7 +982,7 @@ msgstr "Så förrädaren återvänder för att hälsa sin fiende. Så trevligt."
 #: Saving_Elensefar/scenarios/Off_the_Peninsula.cfg:114
 msgid ""
 "What are you doing here? My quarrel is with the Wesnothians, not with you."
-msgstr "Vad gör du här? Min konflikt är med wesnothborna, inte med dig."
+msgstr "Vad gör du här? Min konflikt är med wesnotherna, inte med dig."
 
 #: Saving_Elensefar/scenarios/Off_the_Peninsula.cfg:118
 msgid ""
@@ -1001,8 +1001,8 @@ msgid ""
 "Oh, and I see some of the Wesnothians you found are turncoats. Don't worry, "
 "they will die also."
 msgstr ""
-"Åh, jag ser att du har förrädare bland de wesnothbor du plockat upp. Oroa "
-"dig inte, de kommer också att dö."
+"Åh, jag ser att du har förrädare bland de wesnother du plockat upp. Oroa dig "
+"inte, de kommer också att dö."
 
 #: Saving_Elensefar/scenarios/Off_the_Peninsula.cfg:146
 msgid ""
@@ -1055,7 +1055,7 @@ msgid ""
 "We have taken Elensefar and defeated the Wesnothians, but these Elves need "
 "attending to."
 msgstr ""
-"Vi intog Elensefar och besegrade wesnothborna, men nu måste vi ta itu med de "
+"Vi intog Elensefar och besegrade wesnotherna, men nu måste vi ta itu med de "
 "där alverna."
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:301
@@ -1083,7 +1083,7 @@ msgid ""
 "Come on, we should go South and see if we can help defeat the Wesnothians."
 msgstr ""
 "Kom igen, vi borde marschera söderut och se om vi kan hjälpa till att "
-"besegra wesnothborna."
+"besegra wesnotherna."
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:387
 msgid ""
@@ -1554,7 +1554,7 @@ msgid ""
 "Wesnothians on this island, or have they given up trying to stop us?"
 msgstr ""
 "Vad? Se där, om det inte är min gamla vän Kalandur... Är det några fler "
-"wesnothbor på ön eller har de gett upp sina försök att stoppa oss?"
+"wesnother på ön eller har de gett upp sina försök att stoppa oss?"
 
 #: Saving_Elensefar/scenarios/Traitors.cfg:112
 msgid "There are none here, but trust me, they remain against you."
@@ -1913,7 +1913,7 @@ msgid ""
 "I still cannot believe that the men of Wesnoth, or the elves, would really "
 "fight to keep Elensefar under orcish control. What made them do it?"
 msgstr ""
-"Jag kan fortfarande inte tro att wesnothborna eller alverna skulle slåss för "
+"Jag kan fortfarande inte tro att wesnotherna eller alverna skulle slåss för "
 "att behålla Elensefar under orchernas kontroll. Vad fick dem att göra det?"
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:66
@@ -2081,7 +2081,7 @@ msgstr ""
 
 #: Saving_Elensefar/units/Black_Galleon.cfg:4
 msgid "Black Galleon"
-msgstr "Svart galleon"
+msgstr "Svart galjon"
 
 #: Saving_Elensefar/units/Black_Galleon.cfg:24
 #: Saving_Elensefar/units/War_Galleon.cfg:24
@@ -2160,15 +2160,15 @@ msgstr "Alvnavigatör"
 
 #: Saving_Elensefar/units/Highwayman.cfg:4
 msgid "Highwayman"
-msgstr "Rövare"
+msgstr "Stråtrövare"
 
 #: Saving_Elensefar/units/Highwayman.cfg:17
 msgid ""
 "Armed with heavy mace, Highwaymen are the last people you want to meet on a "
 "deserted road late at night."
 msgstr ""
-"Beväpnade med tunga spikklubbor som de är, så är rövarna de sista du vill "
-"möta på en ödslig väg sent på natten."
+"Beväpnade med tunga spikklubbor som de är, så är stråtrövarna de sista du "
+"vill möta på en ödslig väg sent på natten."
 
 #: Saving_Elensefar/units/Highwayman.cfg:20
 msgid "mace"
@@ -2217,7 +2217,7 @@ msgstr "froststöt"
 
 #: Saving_Elensefar/units/War_Galleon.cfg:4
 msgid "War Galleon"
-msgstr "Krigsgalleon"
+msgstr "Örlogsgaljon"
 
 #: Saving_Elensefar/units/War_Galleon.cfg:22
 msgid ""
@@ -2225,6 +2225,6 @@ msgid ""
 "several large ballistas. Their task is to hunt down pirates - or whoever "
 "they choose to call pirates - and destroy them."
 msgstr ""
-"Wesnoths kungliga flotta utgörs av mäktiga galleoner som var och en är "
+"Wesnoths kungliga flotta utgörs av mäktiga galjoner som var och en är "
 "utrustad med flera ballistor. Deras uppgift är att jaga pirater - eller "
 "vilka de nu får för sig att kalla pirater - och förgöra dem."
