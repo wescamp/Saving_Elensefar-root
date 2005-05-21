@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-05 10:24+0200\n"
+"POT-Creation-Date: 2005-05-21 17:08+0200\n"
 "PO-Revision-Date: 2005-05-05 10:24+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -61,12 +61,12 @@ msgstr ""
 #: Saving_Elensefar/scenarios/Frozen_Lands.cfg:52
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:93
 #: Saving_Elensefar/scenarios/The_Desert_Island.cfg:50
-#: Saving_Elensefar/scenarios/Sea_Battle.cfg:50
+#: Saving_Elensefar/scenarios/Sea_Battle.cfg:56
 #: Saving_Elensefar/scenarios/The_Ruined_Port.cfg:102
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:76
 #: Saving_Elensefar/scenarios/Deadly_Alliance.cfg:66
 #: Saving_Elensefar/scenarios/The_Swampland.cfg:51
-#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:141
+#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:143
 #: Saving_Elensefar/scenarios/Off_the_Peninsula.cfg:55
 #: Saving_Elensefar/scenarios/Traitors.cfg:52
 #: Saving_Elensefar/scenarios/Wesnothian_Forces.cfg:47
@@ -82,12 +82,12 @@ msgstr ""
 #: Saving_Elensefar/scenarios/Frozen_Lands.cfg:56
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:97
 #: Saving_Elensefar/scenarios/The_Desert_Island.cfg:54
-#: Saving_Elensefar/scenarios/Sea_Battle.cfg:54
+#: Saving_Elensefar/scenarios/Sea_Battle.cfg:60
 #: Saving_Elensefar/scenarios/The_Ruined_Port.cfg:106
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:80
 #: Saving_Elensefar/scenarios/Deadly_Alliance.cfg:70
 #: Saving_Elensefar/scenarios/The_Swampland.cfg:55
-#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:145
+#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:147
 #: Saving_Elensefar/scenarios/Off_the_Peninsula.cfg:59
 #: Saving_Elensefar/scenarios/Traitors.cfg:56
 #: Saving_Elensefar/scenarios/Wesnothian_Forces.cfg:51
@@ -103,7 +103,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/Frozen_Lands.cfg:60
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:101
 #: Saving_Elensefar/scenarios/The_Desert_Island.cfg:58
-#: Saving_Elensefar/scenarios/Sea_Battle.cfg:58
+#: Saving_Elensefar/scenarios/Sea_Battle.cfg:64
 #: Saving_Elensefar/scenarios/The_Ruined_Port.cfg:110
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:84
 #: Saving_Elensefar/scenarios/Deadly_Alliance.cfg:74
@@ -123,11 +123,11 @@ msgstr ""
 #: Saving_Elensefar/scenarios/Frozen_Lands.cfg:64
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:109
 #: Saving_Elensefar/scenarios/The_Desert_Island.cfg:62
-#: Saving_Elensefar/scenarios/Sea_Battle.cfg:62
+#: Saving_Elensefar/scenarios/Sea_Battle.cfg:68
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:88
 #: Saving_Elensefar/scenarios/Deadly_Alliance.cfg:78
 #: Saving_Elensefar/scenarios/The_Swampland.cfg:63
-#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:149
+#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:151
 #: Saving_Elensefar/scenarios/Off_the_Peninsula.cfg:67
 #: Saving_Elensefar/scenarios/Traitors.cfg:64
 #: Saving_Elensefar/scenarios/Wesnothian_Forces.cfg:59
@@ -230,7 +230,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/Theft.cfg:54
 #: Saving_Elensefar/scenarios/Frozen_Lands.cfg:48
 #: Saving_Elensefar/scenarios/The_Desert_Island.cfg:46
-#: Saving_Elensefar/scenarios/Sea_Battle.cfg:46
+#: Saving_Elensefar/scenarios/Sea_Battle.cfg:52
 #: Saving_Elensefar/scenarios/The_Swampland.cfg:47
 #: Saving_Elensefar/scenarios/Off_the_Peninsula.cfg:51
 #: Saving_Elensefar/scenarios/Traitors.cfg:48
@@ -492,15 +492,30 @@ msgstr ""
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:211
 msgid ""
-"Not so fast! The orcs are not sieging the city anymore, but they are still "
-"dangerously close! We have to push them back to a safe distance before I "
-"would agree to divert troops away from here to help you."
+"Well, the orcs will probably be back soon... I think that we are going to "
+"end up dying here, no matter what you do. We have held up extraordinarily "
+"long already."
 msgstr ""
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:215
 msgid ""
-"Fine. We'll help you a bit longer, but then you'd better make good on your "
-"promise!"
+"That's true. I think it would be best if we could get enough ships to get "
+"off of this island. The one I went out on was our last, and we can't make "
+"more."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:219
+msgid ""
+"Well, I am a shipbuilder. I could help you build more ships, and then you "
+"could bring all of your people back east with us."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:223
+msgid "That sounds good."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:227
+msgid "Then it is agreed. But after that, you have to help us fight the orcs!"
 msgstr ""
 
 #: Saving_Elensefar/scenarios/Deadly_Alliance.cfg:3
@@ -658,21 +673,29 @@ msgid ""
 "were already orcs blocking his path to the harbor..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:137
+#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:65
+msgid "Meneldur"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:78
+msgid "Madru"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:139
 msgid "Move Meneldur to the Explorer"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:162
+#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:164
 msgid ""
 "Orcs! Orcs are attacking! There are too many, we can't fight them off, we "
 "have to reach the ship!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:166
+#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:168
 msgid "Aye aye, Cap'n. All men to the ship, quick as you can!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:189
+#: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:191
 msgid "Now, we go out to sea. I expect our city is doomed..."
 msgstr ""
 
@@ -911,7 +934,7 @@ msgstr ""
 msgid "Sea Battle"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/Sea_Battle.cfg:111
+#: Saving_Elensefar/scenarios/Sea_Battle.cfg:117
 msgid ""
 "They had 50 gold stored in their ship, and enough provisions to restock our "
 "ship."
@@ -1437,89 +1460,96 @@ msgstr ""
 msgid "Return to Elensefar"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:44
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:21
 msgid ""
-"The necromancers who were on the ship cast a spell of darkness and swiftness "
-"over the boat. The next thing Meneldur and his men knew, they had reached "
-"the delta of the Great River, where Elensefar was built."
+"And so Meneldur helped the Wesfolk build ships. They built three sturdy "
+"galleons, which was enough to hold all of them. That is how few of that once "
+"great race remained."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:66
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:25
+msgid ""
+"The necromancers who were on the ships cast a spell of darkness and "
+"swiftness over the boat. The next thing Meneldur and his men knew, they had "
+"reached the delta of the Great River, where Elensefar was built."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:74
 msgid ""
 "Well, now we are in the port of Elensefar... It is time to retake Elensefar, "
 "as we aided Blackmore. So... does anyone have an idea as to how to attack "
 "the city?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:70
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:78
 msgid ""
 "Here; this is my plan. On the northern side of the river, there is a cave "
 "where smugglers hide their goods. I know some bandits who won't alert anyone "
 "if we land there."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:78
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:86
 msgid "But they won't help us?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:82
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:90
 msgid ""
 "Uhm... no, probably not. But we would be rather secretive, they probably "
 "wouldn't notice us."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:86
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:94
 msgid "Madru, do you have any suggestions?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:90
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:98
 msgid ""
 "Well, we could always land on the south beach. There is a harbor there, and "
 "a quick route from there to inside the city."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:98
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:106
 msgid "But won't they see us there?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:102
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:110
 msgid ""
 "Yes, but what's wrong with a head on battle? I think we could defeat them."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:106
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:114
 msgid ""
 "Well, I think maybe we should land right in Elensefar itself. That way, we "
 "can go around most of the orcish defenses, which are probably guarding the "
 "bridges to the city."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:114
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:122
 msgid ""
 "That is a bold plan, but I'm not sure it will work. If you do not succeed "
 "immediately, you will have alerted the orcs to our presence without "
 "accomplishing anything."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:118
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:126
 msgid "Hm... you are right there. Which plan should we use?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:120
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:128
 msgid "I say we head north, as you proposed."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:129
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:137
 msgid "Madru's plan to head south sounds the best."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:138
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:146
 msgid ""
 "Both of your plans were good, but I will stick to my own, and land in the "
 "harbor."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:149
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:157
 msgid "Very well. Let us not waste any more time, we must fight now."
 msgstr ""
 
@@ -1676,6 +1706,70 @@ msgstr ""
 msgid ""
 "Very well. I suppose this council is ended, and the real work of Daharan's "
 "reign shall begin."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:27
+msgid "Ahnnhnnhn..."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:40
+msgid "Ughnnnhnnhn..."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:53
+msgid "Ughnhnhnhhn..."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:66
+msgid "Ahnanzz..."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:110
+msgid "Do you really want to run away?"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:112
+msgid "Yes"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:116
+msgid "Fall back!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:133
+msgid "No"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:137
+msgid "Fight on!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:192
+msgid "{DESC}"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:204
+msgid "quick, resilient"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:205
+msgid "strong, resilient"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:206
+msgid "intelligent, resilient"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:207
+msgid "strong, quick"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:208
+msgid "strong, intelligent"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/utils.cfg:209
+msgid "quick, intelligent"
 msgstr ""
 
 #: Saving_Elensefar/units/Black_Galleon.cfg:4
