@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-21 17:08+0200\n"
+"POT-Creation-Date: 2005-05-29 17:57+0200\n"
 "PO-Revision-Date: 2005-04-29 20:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -49,7 +49,7 @@ msgstr ""
 
 #: Saving_Elensefar/scenarios/A_Kings_Demand.cfg:62
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:89
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:72
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:89
 #: Saving_Elensefar/scenarios/Deadly_Alliance.cfg:62
 #: Saving_Elensefar/scenarios/Back_to_the_Ship.cfg:66
 msgid "Defeat enemy leaders"
@@ -63,7 +63,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/The_Desert_Island.cfg:50
 #: Saving_Elensefar/scenarios/Sea_Battle.cfg:56
 #: Saving_Elensefar/scenarios/The_Ruined_Port.cfg:102
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:76
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:93
 #: Saving_Elensefar/scenarios/Deadly_Alliance.cfg:66
 #: Saving_Elensefar/scenarios/The_Swampland.cfg:51
 #: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:143
@@ -84,7 +84,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/The_Desert_Island.cfg:54
 #: Saving_Elensefar/scenarios/Sea_Battle.cfg:60
 #: Saving_Elensefar/scenarios/The_Ruined_Port.cfg:106
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:80
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:97
 #: Saving_Elensefar/scenarios/Deadly_Alliance.cfg:70
 #: Saving_Elensefar/scenarios/The_Swampland.cfg:55
 #: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:147
@@ -105,7 +105,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/The_Desert_Island.cfg:58
 #: Saving_Elensefar/scenarios/Sea_Battle.cfg:64
 #: Saving_Elensefar/scenarios/The_Ruined_Port.cfg:110
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:84
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:101
 #: Saving_Elensefar/scenarios/Deadly_Alliance.cfg:74
 #: Saving_Elensefar/scenarios/The_Swampland.cfg:59
 #: Saving_Elensefar/scenarios/Off_the_Peninsula.cfg:63
@@ -124,7 +124,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:109
 #: Saving_Elensefar/scenarios/The_Desert_Island.cfg:62
 #: Saving_Elensefar/scenarios/Sea_Battle.cfg:68
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:88
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:105
 #: Saving_Elensefar/scenarios/Deadly_Alliance.cfg:78
 #: Saving_Elensefar/scenarios/The_Swampland.cfg:63
 #: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:151
@@ -871,63 +871,194 @@ msgid ""
 "for a few days."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:284
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:182
+msgid ""
+"The first enemy we will encounter will be the elves. Show them no mercy!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:186
+msgid "And we will show you none. Prepare to meet your doom!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:192
+msgid ""
+"What? There appear to be elves blocking our path! Elves, why are you in our "
+"way?"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:196
+msgid ""
+"We are here to kill you! After that, we will kill the orcs, but we must kill "
+"you first."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:200
+msgid ""
+"Are you mad?! Well, if you are, I have no time to reason with you. Prepare "
+"to die!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:221
+msgid ""
+"We have come to take back Elensefar from the orcs! But remember, the men of "
+"Wesnoth will no doubt try to stop us, as will the elves. We must fight them "
+"too."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:225
+msgid "Indeed we will. You are a traitor to your country, and must die as one!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:231
+msgid ""
+"This looks like the area the men of Wesnoth have claimed to siege Elensefar "
+"from. Unfortunately, we must get past them to free the city."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:235
+msgid ""
+"You will not get past us while I am alive. And even if you do, the elves "
+"will stop you. If you must be a traitor, pick one nation to betray, not two!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:239
+msgid ""
+"What are you talking about? Oh, I see... my northern brethren have decided "
+"toattack me... Well, we will get past these Wesnothians first, and see what "
+"we can do then."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:243
+msgid "Prepare to die, Elensian scum!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:257
+msgid ""
+"We are in Elensefar's harbor, from where we will drive the orcs out into the "
+"faces of the elves. Although they are my brethren, we must not hold back "
+"from killing them because of it. Onward!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:261
+msgid ""
+"Listen t' that! He really thinks 'e can kill us! We'll show 'im! Kill the "
+"invader!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:267
+msgid ""
+"We are now in Elensefar's harbor. From now, we fight until the orcs are all "
+"out of our city! Then, it appears, we will have to deal with those "
+"Wesnothians who believe us to be traitors."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:271
+msgid ""
+"Yes, please, do that. Then we will not have to deal with the orcs, and only "
+"with you!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:275
+msgid "What?... Oh, its elves, from the northlands. What do you want?"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:279
+msgid "You dead, traitor!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:283
+msgid "Whatever you say. We'll deal with you after we kill the orcs."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:305
 msgid "Elensefar may be ours, but there are still enemies to defeat. Onwards!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:295
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:316
 msgid ""
 "We have taken Elensefar and defeated the Wesnothians, but these Elves need "
 "attending to."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:301
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:338
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:375
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:322
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:383
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:445
 msgid "There are no enemies left - we have succeeded in retaking Elensefar."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:321
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:334
+msgid ""
+"The orcs had ransacked the city's coffers - now it's time for us to return "
+"the favor."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:339
+msgid "You find 300 pieces of gold!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:342
+msgid "You find 250 pieces of gold!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:345
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:400
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:462
+msgid "You find 200 pieces of gold!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:366
 msgid "Good work, men. Onwards, we have to retake the city also!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:332
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:377
 msgid "Come on, we should go North and see if we can help defeat the elves."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:358
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:395
+msgid "The Wesnothians had much gold in their camp. It is ours now!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:403
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:465
+msgid "You find 175 pieces of gold!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:406
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:468
+msgid "You find 150 pieces of gold!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:428
 msgid "Orcs still reside in the city! Come one, let us kill them too!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:369
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:439
 msgid ""
 "Come on, we should go South and see if we can help defeat the Wesnothians."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:387
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:457
+msgid ""
+"It seems the elves brought some of their treasure out of the northlands. "
+"More for us!"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:481
 msgid ""
 "Yes, Elensefar is ours, finally. Well, Black the Red, we thank you for your "
 "help."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:391
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:485
 msgid ""
-"It was an honor to fight for you. I will be going back across the sea soon, "
-"I suppose."
+"It was an honor to fight for you. I wonder where my people will go now... "
+"the orcs have surely taken our home by now."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:395
-msgid "With your Undead?"
-msgstr ""
-
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:399
-msgid "Yes, with my Undead."
-msgstr ""
-
-#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:403
+#: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:489
 msgid ""
-"Very well. We shall be busy, there is much work to be done rebuilding the "
-"city."
+"I'm sure we will have time to discuss that later. But for now, we must help "
+"those conquered by the orcs rebuild their city."
 msgstr ""
 
 #: Saving_Elensefar/scenarios/Sea_Battle.cfg:4
@@ -1551,6 +1682,10 @@ msgstr ""
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:157
 msgid "Very well. Let us not waste any more time, we must fight now."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:164
+msgid "Ah-Reblak"
 msgstr ""
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:3
