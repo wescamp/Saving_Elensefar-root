@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-29 17:57+0200\n"
-"PO-Revision-Date: 2005-05-21 18:41+0200\n"
+"PO-Revision-Date: 2005-05-30 14:22+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -217,7 +217,7 @@ msgid ""
 "What would you have me do? Give you navigators to help you? Why would I do "
 "that for an enemy?"
 msgstr ""
-"Vad vill du att jag ska göra? Ge dig navigatörer att hjälpa till? Varför "
+"Vad vill du att jag skall göra? Ge dig navigatörer att hjälpa till? Varför "
 "skulle jag hjälpa en fiende med det?"
 
 #: Saving_Elensefar/scenarios/A_Kings_Demand.cfg:151
@@ -299,7 +299,7 @@ msgid ""
 "Navy with your spells, and now you will pay for it!"
 msgstr ""
 "Din hund, kom inte här med en massa lögner! Du anföll ett skepp från den "
-"kungliga flottan med dina besvärjelser och nu ska du få betala för det!"
+"kungliga flottan med dina besvärjelser och nu skall du få betala för det!"
 
 #: Saving_Elensefar/scenarios/A_Naval_Engagement.cfg:149
 msgid ""
@@ -513,7 +513,7 @@ msgid ""
 "I see, brother, that you have returned with warriors. Are they to help us "
 "defeat these orcs?"
 msgstr ""
-"Jag ser att du har återvänt med krigare. Ska de hjälpa oss att besegra "
+"Jag ser att du har återvänt med krigare. Skall de hjälpa oss att besegra "
 "orcherna?"
 
 #: Saving_Elensefar/scenarios/Blackmore_the_Black.cfg:151
@@ -812,7 +812,7 @@ msgstr ""
 "Vår historia börjar en natt ungefär tio år efter att Meneldur först kommit "
 "till Elensefar. Meneldur återvänder till Elensefar från en handelsresa till "
 "Pärlbukten. När han landstigit i Elensefar så går han till slottet för att "
-"få instruktioner från furst Elensefar om vart hans nästa resa ska bära av. "
+"få instruktioner från furst Elensefar om vart hans nästa resa skall bära av. "
 "Hans nya uppdrag är att färdas till den södra delen av alvernas halvö, och "
 "att handla med sydalverna."
 
@@ -944,7 +944,7 @@ msgid ""
 "Very well, we will try to help you - so give us command of your troops, that "
 "we may use them more effectively."
 msgstr ""
-"Nåväl, vi ska försöka hjälpa er. Låt oss leda era trupper så att vi kan "
+"Nåväl, vi skall försöka hjälpa er. Låt oss leda era trupper så att vi kan "
 "använda dem effektivare."
 
 #: Saving_Elensefar/scenarios/Frozen_Lands.cfg:108
@@ -1072,29 +1072,33 @@ msgstr ""
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:182
 msgid ""
 "The first enemy we will encounter will be the elves. Show them no mercy!"
-msgstr ""
+msgstr "Vår första motståndare blir alverna. Visa ingen nåd!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:186
 msgid "And we will show you none. Prepare to meet your doom!"
-msgstr ""
+msgstr "Och vi skall inte visa er någon. Bered er att gå under!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:192
 msgid ""
 "What? There appear to be elves blocking our path! Elves, why are you in our "
 "way?"
-msgstr ""
+msgstr "Vad? Alver blockerar vår väg! Alver, varför står ni i vägen?"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:196
 msgid ""
 "We are here to kill you! After that, we will kill the orcs, but we must kill "
 "you first."
 msgstr ""
+"Vi är här för att döda er! Efter det skall vi döda orcherna, men vi måste ta "
+"oss an er först."
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:200
 msgid ""
 "Are you mad?! Well, if you are, I have no time to reason with you. Prepare "
 "to die!"
 msgstr ""
+"Är ni galna?! Nå, även om ni är det, så har jag inte tid att försöka "
+"resonera med er. Bered er att dö!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:221
 msgid ""
@@ -1102,22 +1106,30 @@ msgid ""
 "Wesnoth will no doubt try to stop us, as will the elves. We must fight them "
 "too."
 msgstr ""
+"Vi har kommit för att återta Elensefar från orcherna! Men kom ihåg, "
+"wesnotherna kommer utan tvivel att försöka stoppa oss; och så även alverna. "
+"Vi måste strida mot dem också."
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:225
 msgid "Indeed we will. You are a traitor to your country, and must die as one!"
-msgstr ""
+msgstr "Sannerligen. Du är en förrädare, och måste dö!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:231
 msgid ""
 "This looks like the area the men of Wesnoth have claimed to siege Elensefar "
 "from. Unfortunately, we must get past them to free the city."
 msgstr ""
+"Detta måste vara platsen varifrån wesnotherna tänker belägra Elensefar. "
+"Tyvärr måste vi komma förbi dem för att kunna frita staden."
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:235
 msgid ""
 "You will not get past us while I am alive. And even if you do, the elves "
 "will stop you. If you must be a traitor, pick one nation to betray, not two!"
 msgstr ""
+"Ni kommer inte förbi så länge jag är i livet. Och även om ni gör det, så "
+"kommer alverna att stoppa er. Om du nödvändigtvis måste förråda ett land, "
+"välj ett, inte två!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:239
 msgid ""
@@ -1125,10 +1137,13 @@ msgid ""
 "toattack me... Well, we will get past these Wesnothians first, and see what "
 "we can do then."
 msgstr ""
+"Vad pratar du om? Åhå, jag förstår... Mina släktingar från norr har beslutat "
+"sig för att anfalla mig. Nå, vi tar oss förbi wesnotherna först, och ser var "
+"vi kan göra sedan."
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:243
 msgid "Prepare to die, Elensian scum!"
-msgstr ""
+msgstr "Bered er att dö, elensiska avskum!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:257
 msgid ""
@@ -1136,12 +1151,17 @@ msgid ""
 "faces of the elves. Although they are my brethren, we must not hold back "
 "from killing them because of it. Onward!"
 msgstr ""
+"Vi är i Elensefars hamn, och härifrån driver vi orcherna mot alverna. Även "
+"om de tillhör mitt släkte så får vi inte hålla tillbaka på grund av det. "
+"Framåt!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:261
 msgid ""
 "Listen t' that! He really thinks 'e can kill us! We'll show 'im! Kill the "
 "invader!"
 msgstr ""
+"Hör på den! Han tror att han kan döda oss! Vi skall visa honom! Döda "
+"inkräktaren!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:267
 msgid ""
@@ -1149,24 +1169,27 @@ msgid ""
 "out of our city! Then, it appears, we will have to deal with those "
 "Wesnothians who believe us to be traitors."
 msgstr ""
+"Vi är i Elensefars hamn. Nu skall vi mota ut orcherna ur staden! Sedan ser "
+"det ut som att vi måste ta itu med de där wesnotherna som tror att vi är "
+"förrädare."
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:271
 msgid ""
 "Yes, please, do that. Then we will not have to deal with the orcs, and only "
 "with you!"
-msgstr ""
+msgstr "Ja tack, gör det. Då behöver vi inte ta oss an orcherna, utan bara er!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:275
 msgid "What?... Oh, its elves, from the northlands. What do you want?"
-msgstr ""
+msgstr "Vad? Åhå, det är alver, från norr. Vad vill ni?"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:279
 msgid "You dead, traitor!"
-msgstr ""
+msgstr "Se dig död, förrädare!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:283
 msgid "Whatever you say. We'll deal with you after we kill the orcs."
-msgstr ""
+msgstr "Nåväl. Vi tar itu med er efter att vi dödat orcherna."
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:305
 msgid "Elensefar may be ours, but there are still enemies to defeat. Onwards!"
@@ -1192,21 +1215,21 @@ msgstr "Det finns inga fiender kvar! Vi lyckades återta Elensefar!"
 msgid ""
 "The orcs had ransacked the city's coffers - now it's time for us to return "
 "the favor."
-msgstr ""
+msgstr "Orcherna har plundrat staden - ni skall vi återgälda tjänsten."
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:339
 msgid "You find 300 pieces of gold!"
-msgstr ""
+msgstr "Du finner 300 guld!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:342
 msgid "You find 250 pieces of gold!"
-msgstr ""
+msgstr "Du finner 250 guld!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:345
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:400
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:462
 msgid "You find 200 pieces of gold!"
-msgstr ""
+msgstr "Du finner 200 guld!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:366
 msgid "Good work, men. Onwards, we have to retake the city also!"
@@ -1220,17 +1243,17 @@ msgstr ""
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:395
 msgid "The Wesnothians had much gold in their camp. It is ours now!"
-msgstr ""
+msgstr "Wesnotherna hade mycket guld i sitt läger. Nu är det vårt!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:403
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:465
 msgid "You find 175 pieces of gold!"
-msgstr ""
+msgstr "Du finner 175 guld!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:406
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:468
 msgid "You find 150 pieces of gold!"
-msgstr ""
+msgstr "Du finner 150 guld!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:428
 msgid "Orcs still reside in the city! Come one, let us kill them too!"
@@ -1248,6 +1271,8 @@ msgid ""
 "It seems the elves brought some of their treasure out of the northlands. "
 "More for us!"
 msgstr ""
+"Det ser ut som att alverna tog med sig lite av sina skatter från "
+"nordländerna. Mer åt oss!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:481
 msgid ""
@@ -1257,19 +1282,20 @@ msgstr ""
 "Ja! Elensefar är äntligen vårt! Nå, Black Röde, vi tackar dig för din hjälp."
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:485
-#, fuzzy
 msgid ""
 "It was an honor to fight for you. I wonder where my people will go now... "
 "the orcs have surely taken our home by now."
 msgstr ""
-"Det var en ära att slåss med dig. Jag får väl återvända till havet, antar "
-"jag."
+"Det var en ära att slåss med dig. Jag undrar vart mitt folk skall ta vägen "
+"nu.... Orcherna måste ha erövrat vårt hem vid det här laget."
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:489
 msgid ""
 "I'm sure we will have time to discuss that later. But for now, we must help "
 "those conquered by the orcs rebuild their city."
 msgstr ""
+"Det finns säkert tid att diskutera det senare. Men nu måste vi hjälpa till "
+"att återuppbygga staden."
 
 #: Saving_Elensefar/scenarios/Sea_Battle.cfg:4
 msgid "Sea Battle"
@@ -1535,7 +1561,7 @@ msgstr ""
 
 #: Saving_Elensefar/scenarios/The_Ruined_Port.cfg:152
 msgid "So what do you suggest we do?"
-msgstr "Så vad föreslår du att vi ska göra?"
+msgstr "Så vad föreslår du att vi skall göra?"
 
 #: Saving_Elensefar/scenarios/The_Ruined_Port.cfg:156
 msgid ""
@@ -1680,7 +1706,7 @@ msgid ""
 "They've found us! Workers, get that boat out of here! We will secure time "
 "for your escape."
 msgstr ""
-"De har hittat oss! Arbetare, få bort den där båten härifrån! Vi ska köpa "
+"De har hittat oss! Arbetare, få bort den där båten härifrån! Vi skall köpa "
 "lite tid för flykten."
 
 #: Saving_Elensefar/scenarios/Theft.cfg:194
@@ -2010,7 +2036,7 @@ msgstr ""
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:126
 msgid "Hm... you are right there. Which plan should we use?"
-msgstr "Hm... Det har du rätt i. Vilken plan ska vi använda då?"
+msgstr "Hm... Det har du rätt i. Vilken plan skall vi använda då?"
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:128
 msgid "I say we head north, as you proposed."
@@ -2032,9 +2058,8 @@ msgid "Very well. Let us not waste any more time, we must fight now."
 msgstr "Nåväl. Nu får vi sätta fart."
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:164
-#, fuzzy
 msgid "Ah-Reblak"
-msgstr "Ah-Reblak dör"
+msgstr "Ah-Reblak"
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:3
 msgid "Epilogue"
@@ -2462,16 +2487,3 @@ msgstr ""
 "Wesnoths kungliga flotta utgörs av mäktiga galjoner som var och en är "
 "utrustad med flera ballistor. Deras uppgift är att jaga pirater - eller "
 "vilka de nu får för sig att kalla pirater - och förgöra dem."
-
-#~ msgid "With your Undead?"
-#~ msgstr "Med dina vandöda?"
-
-#~ msgid "Yes, with my Undead."
-#~ msgstr "Ja, med mina vandöda."
-
-#~ msgid ""
-#~ "Very well. We shall be busy, there is much work to be done rebuilding the "
-#~ "city."
-#~ msgstr ""
-#~ "Nåväl. Vi kommer att kunna sysselsätta oss. Det blir mycket arbete med "
-#~ "att återbygga staden."
