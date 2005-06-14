@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-29 17:57+0200\n"
-"PO-Revision-Date: 2005-05-30 14:22+0200\n"
+"PO-Revision-Date: 2005-06-14 00:46+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -2472,7 +2472,7 @@ msgstr "kortsvärd"
 
 #: Saving_Elensefar/units/Shadow_Mage.cfg:48
 msgid "ice blast"
-msgstr "froststöt"
+msgstr "isstöt"
 
 #: Saving_Elensefar/units/War_Galleon.cfg:4
 msgid "War Galleon"
