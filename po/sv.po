@@ -3,21 +3,20 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-07-04 18:06+0200\n"
-"PO-Revision-Date: 2005-06-14 00:46+0200\n"
+"PO-Revision-Date: 2005-07-04 19:29+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10\n"
+"X-Generator: KBabel 1.10.1\n"
 
 #: Saving_Elensefar.cfg:11 Saving_Elensefar/scenarios/Saving_Elensefar.cfg:3
 msgid "Saving Elensefar"
 msgstr "Elensefars Undsättning"
 
 #: Saving_Elensefar.cfg:13
-#, fuzzy
 msgid ""
 "Meneldur, elvish mariner of Elensefar, is driven to sea by the same orcs who "
 "attacked the city. He must gather an army willing to fight for him to regain "
@@ -27,10 +26,11 @@ msgstr ""
 "Meneldur, alvsjöman från Elensefar, fördrivs till sjöss av samma orcher som "
 "anfaller staden. Han måste samla ihop en armé som är villig att slåss för "
 "att återta Elensefar, hans hem.\n"
+"(Version 0.8.4, 2005-07-03)"
 
 #: Saving_Elensefar.cfg:16
 msgid "(medium)"
-msgstr ""
+msgstr "(medium)"
 
 #: Saving_Elensefar.cfg:16
 msgid "Navigator"
@@ -45,14 +45,12 @@ msgid "Mariner"
 msgstr "Sjöman"
 
 #: Saving_Elensefar.cfg:16
-#, fuzzy
 msgid "(hard)"
-msgstr "(svårast)"
+msgstr "(svårt)"
 
 #: Saving_Elensefar.cfg:16
-#, fuzzy
 msgid "(easy)"
-msgstr "(lättast)"
+msgstr "(lätt)"
 
 #: Saving_Elensefar/scenarios/A_Kings_Demand.cfg:3
 msgid "A King's Demand"
@@ -684,15 +682,14 @@ msgstr ""
 "Uh, ja, såklart... Vi är samma klan... Uh... Bered dig att dö, dumma hundman!"
 
 #: Saving_Elensefar/scenarios/Deadly_Alliance.cfg:132
-#, fuzzy
 msgid ""
 "So the elves, too, have given up trying to stop the orcs... it seems we are "
 "on our own against them. And these elves, since we are their enemies anyway, "
 "must die."
 msgstr ""
 "Så alverna har också slutat försöka stoppa orcherna... Det verkar som att vi "
-"står ensamma mot orcherna. Och mot alverna, eftersom vi ju är deras fiender "
-"också."
+"står ensamma mot orcherna. Och eftersom vi ju är deras fiender också, så "
+"måste alverna dö."
 
 #: Saving_Elensefar/scenarios/Deadly_Alliance.cfg:138
 msgid ""
@@ -1084,16 +1081,20 @@ msgid ""
 "As the warriors landed the Explorer, they overheard the elves, men and orcs "
 "talking..."
 msgstr ""
+"När krigarna landsteg med Utforskaren, så hörde de alver, människor och "
+"orcher som rådslog..."
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:175
 msgid ""
 "Orc, you promised that, if we allied with you, you would free all the "
 "prisoners you took when you captured Elensefar. You have broken our pact!"
 msgstr ""
+"Orch, du lovade att om vi gick samman med er, så skulle ni befria alla de "
+"fångar ni tog när ni intog Elensefar. Ni har brutit vår pakt!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:179
 msgid "Ag, elf-dog, you shuttup! I aint takin' orders fr'm you!"
-msgstr ""
+msgstr "Agh, alvhund, du håller käften! Jag tar inga order från dig!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:183
 msgid ""
@@ -1101,19 +1102,21 @@ msgid ""
 "attack you again! And this time, we will probably win, since our "
 "reinforcements have arrived, and there are two armies to attack you."
 msgstr ""
+"Lyssna, Pakch-Glun, om du inte fullgör din del av avtalet, så anfaller vi er "
+"igen! Och den här gånger vinner vi, eftersom våra förstärkningar nått fram, "
+"och du har två arméer mot dig."
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:187
 msgid "Heh, shur. I'd like t' see you try!"
-msgstr ""
+msgstr "He, visst. Försök bara!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:191
 msgid "Mathein, shall we attack?"
-msgstr ""
+msgstr "Mathein, skall vi anfalla?"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:195
-#, fuzzy
 msgid "Yes. Pakch-Glun, prepare to die!"
-msgstr "Ja, det borde ni! Bered er på döden!"
+msgstr "Ja. Pakch-Glun, Bered dig att dö!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:199
 msgid ""
@@ -1121,6 +1124,9 @@ msgid ""
 "elves, men and orcs would fight each other, Meneldur still had to fight all "
 "of them."
 msgstr ""
+"Detta var välkomna nyheter för Utforskarens besättning. Men, även om "
+"alverna, människorna och orcherna skulle strida mot varandra, så var "
+"Meneldur ändå tvungen att strida mot dem allihop."
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:215
 msgid ""
@@ -1185,14 +1191,13 @@ msgstr ""
 "välj ett, inte två!"
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:272
-#, fuzzy
 msgid ""
 "What are you talking about? Oh, I see... my northern brethren have decided "
 "to attack me... Well, we will get past these Wesnothians first, and see what "
 "we can do then."
 msgstr ""
 "Vad pratar du om? Åhå, jag förstår... Mina släktingar från norr har beslutat "
-"sig för att anfalla mig. Nå, vi tar oss förbi wesnotherna först, och ser var "
+"sig för att anfalla mig. Nå, vi tar oss förbi wesnotherna först, och ser vad "
 "vi kan göra sedan."
 
 #: Saving_Elensefar/scenarios/Saving_Elensefar.cfg:276
