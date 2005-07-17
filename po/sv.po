@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-07-04 18:06+0200\n"
-"PO-Revision-Date: 2005-07-04 19:29+0200\n"
+"PO-Revision-Date: 2005-07-17 23:32+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -853,7 +853,7 @@ msgstr "Madru"
 
 #: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:139
 msgid "Move Meneldur to the Explorer"
-msgstr "Flytta Meneldur till Utforskaren"
+msgstr "För Meneldur till Utforskaren"
 
 #: Saving_Elensefar/scenarios/Escaping_the_Orcs.cfg:164
 msgid ""
