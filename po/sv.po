@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-09-12 15:14+0200\n"
-"PO-Revision-Date: 2005-07-17 23:32+0200\n"
+"PO-Revision-Date: 2005-09-13 17:41+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10.1\n"
+"X-Generator: KBabel 1.10.2\n"
 
 #: Saving_Elensefar.cfg:11 Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:3
 msgid "Saving Elensefar"
@@ -139,7 +139,6 @@ msgstr ""
 "alvhem i nordländerna att segla med honom på hans skepp."
 
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:48
-#, fuzzy
 msgid ""
 "Now our story begins. On a night about 10 years after he first came to "
 "Elensefar, Meneldur returned to Elensefar from a trading voyage to the Bay "
@@ -151,9 +150,9 @@ msgstr ""
 "Vår historia börjar en natt ungefär tio år efter att Meneldur först kommit "
 "till Elensefar. Meneldur återvänder till Elensefar från en handelsresa till "
 "Pärlbukten. När han landstigit i Elensefar så går han till slottet för att "
-"få instruktioner från furst Elensefar om vart hans nästa resa skall bära av. "
-"Hans nya uppdrag är att färdas till den södra delen av alvernas halvö, och "
-"att handla med sydalverna."
+"få instruktioner från Elensefars furste om vart hans nästa resa skall bära "
+"av. Hans nya uppdrag är att färdas till den södra delen av alvernas halvö, "
+"och att handla med sydalverna."
 
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:52
 msgid ""
@@ -1144,14 +1143,14 @@ msgstr ""
 "fängelsedörr. Han kände sig förrådd."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:62
-#, fuzzy
 msgid ""
 "I still cannot believe that the men of Wesnoth, or the elves, would really "
 "fight to keep men of Elensefar from aiding Elensefar. What made them do it, "
 "do you think?"
 msgstr ""
 "Jag kan fortfarande inte tro att wesnotherna eller alverna skulle slåss för "
-"att behålla Elensefar under orchernas kontroll. Vad fick dem att göra det?"
+"att hindra elenser från att bistå Elensefar. Vad fick dem att göra det, tror "
+"du?"
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:66
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:66
@@ -1174,29 +1173,33 @@ msgid ""
 "time they fought us. But before that, they had not attacked because they "
 "thought the Orcs would kill the elven prisoners if they did."
 msgstr ""
+"De tyckte inte att de offrade den. De planerade att anfall orcherna alldeles "
+"efter att de dödat oss. Faktum är att de slogs mot orcherna samtidigt som de "
+"slogs mot oss. Men innan det gjorde de ingenting, eftersom de trodde att "
+"orcherna skulle döda de alver de höll fångna om de gick till anfall."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:78
-#, fuzzy
 msgid ""
 "So they made a peace with the orcs because they feared their own kind's "
 "death? Don't they know orcs cannot be trusted? All the elves who lived in "
 "this city were slain long ago."
 msgstr ""
-"Så de gick samman med orcherna för att de fruktade attacker? Vet de inte att "
-"man inte kan lita på orcher?"
+"Så de gick samman med orcherna för att de fruktade sitt folks död? Vet de "
+"inte att man inte kan lita på orcher? Alla alver som bodde i den här staden "
+"dödades för länge sedan."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:82
-#, fuzzy
 msgid ""
 "When you are in danger of being attacked, you do not think clearly. Their "
 "attack was a mixture of motives, I would say. Hatred of Meneldur, fear of an "
 "orcish attack on their own country, fear of their kinsmen's death, and "
 "something else, I am not sure what, all made them willing to ally with evil."
 msgstr ""
-"När du är rädd för en attack så tänker du inte klart. Deras attack hade "
-"blandade motiv, skulle jag tro. Hatet mot Meneldur, rädslan för en "
-"orchattack på deras hemland, och något annat som jag inte vet vad det är. "
-"Allt detta gjorde att de var villiga att liera sig med ondskan."
+"När du håller på att utsättas för en attack så tänker du inte klart. Deras "
+"attack hade blandade motiv, skulle jag tro. Hatet mot Meneldur, rädslan för "
+"en orchattack i deras hemland, fruktan att deras folk skulle dö, och något "
+"annat som jag inte vet vad det är. Allt detta gjorde att de var villiga att "
+"liera sig med ondskan."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:86
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:86
@@ -1209,7 +1212,6 @@ msgid "None of us are saying they did not."
 msgstr "Ingen av oss säger att de inte gjorde det."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:94
-#, fuzzy
 msgid ""
 "I would. We do not know the circumstances of their peace treaty, nor even to "
 "say whether an alliance, if there had been one, would have been evil. After "
@@ -1251,42 +1253,38 @@ msgstr ""
 "är de det. Alverna kan ha trott att de var det."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:110
-#, fuzzy
 msgid ""
 "I see, Meneldur. Well, I can see, in a distorted way, why the elves attacked "
 "us. But why were the humans willing to discard our age-old alliance, and "
 "attack us before the orcs?"
 msgstr ""
-"Jag förstår vad du säger, Melendur. Nåja, jag kan förstå hur alverna på ett "
-"förvrängt sätt valde att anfalla oss. Men varför valde människorna att "
-"förkasta sina gamla pakter för att istället ingå en med orcherna?"
+"Jag förstår, Melendur. Nåja, jag kan på något vis förstå hur alverna kunde "
+"välja att anfalla oss. Men varför valde människorna att förkasta vår "
+"uråldriga pakt och anfalla oss före orcherna?"
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:114
-#, fuzzy
 msgid ""
 "Well, we did attack them, multiple times. Although it was really self-"
 "defence."
-msgstr "Nå, vi anföll dem faktiskt, flera gånger."
+msgstr ""
+"Nå, vi anföll dem faktiskt, flera gånger. Men det var ju i självförsvar."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:118
-#, fuzzy
 msgid ""
 "They wished to defeat us first, then attack the orcs. Indeed, the elves and "
 "humans could have both had that plan. But the elves lost their temper right "
 "as we arrived, and attacked the orcs immediately."
 msgstr ""
-"Vi vet inte att de planerade att göra det. De kan ha önskat besegra oss "
-"först och sedan anfalla orcherna. Både alverna och människornas kan faktiskt "
-"ha planerat det så."
+"De ville besegra oss först och sedan anfalla orcherna. Både alverna och "
+"människorna kan faktiskt ha planerat det så. Men alverna tappade tålamodet "
+"när vi kom hit, och anföll orcherna omedelbart."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:122
-#, fuzzy
 msgid "That is called treachery, and would not excuse a treaty with the orcs."
 msgstr ""
-"Det kallas förräderi och är inte en ursäkt för att gå samman med ondskan."
+"Det kallas förräderi och är inte en ursäkt för att gå samman med orcherna."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:126
-#, fuzzy
 msgid ""
 "I agree that it would be treachery, but I think it is not what they planned. "
 "The men of Wesnoth do not see good and evil as we do. To them, good is what "
@@ -1297,8 +1295,8 @@ msgstr ""
 "Jag håller med om att det skulle vara förräderi, men jag tror inte att de "
 "planerade det. Wesnoths människor ser inte på gott och ont som vi gör. För "
 "dem så är det som gynnar Wesnoth gott och det som skadar Wesnoth är ont. De "
-"planerade antagligen en allians med en orchernas stat, eftersom det skulle "
-"ge dem möjlighet att skaffa sig provinser i norr utan motstånd."
+"kan ha planerat en permanent allians med orcherna, eftersom det skulle ge "
+"dem möjlighet att skaffa sig provinser i norr utan motstånd."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:130
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:134
@@ -1320,6 +1318,9 @@ msgid ""
 "left alive. But I will not stay in this city, it is too dangerous. I will go "
 "north."
 msgstr ""
+"Nå, jag måste ge mig av. Jag vet inte vart mitt folk kan gå nu; det är så få "
+"av oss kvar. Men jag tänker inte stanna i den här staden, det är för "
+"farligt. Jag ger mig av norrut."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:142
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:146
@@ -1597,9 +1598,8 @@ msgstr ""
 "annars kommer de att falla oss i ryggen senare."
 
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:222
-#, fuzzy
 msgid "You find 100 gold pieces in the orc's castle."
-msgstr "Du finner 150 guld!"
+msgstr "Du finner 100 guld i orchborgen."
 
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:3
 msgid "Back to the Ship"
@@ -2364,16 +2364,15 @@ msgid "Scenario Rules:"
 msgstr "Scenarioregler:"
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:52
-#, fuzzy
 msgid "Land in a harbor to reprovision."
 msgstr "Landstig i en hamn för att proviantera"
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:56
-#, fuzzy
 msgid ""
 "The Wesnothian ships are chasing you; if they attack you they will attempt "
 "to board the ship."
-msgstr "Wesnoths skepp jagar dig; det vore klokt att undvika dem."
+msgstr ""
+"Wesnoths skepp jagar dig; om de anfaller kommer de att försöka borda skeppet."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:60
 msgid ""
@@ -2704,6 +2703,3 @@ msgstr ""
 "Wesnoths kungliga flotta utgörs av mäktiga galjoner som var och en är "
 "utrustad med flera ballistor. Deras uppgift är att jaga pirater - eller "
 "vilka de nu får för sig att kalla pirater - och förgöra dem."
-
-#~ msgid "If they attack you they will attempt to board you."
-#~ msgstr "Om de anfaller så kommer de att försöka borda dig."
