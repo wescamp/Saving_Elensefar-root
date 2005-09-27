@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-09-25 13:54+0200\n"
+"POT-Creation-Date: 2005-09-28 00:36+0200\n"
 "PO-Revision-Date: 2005-09-12 15:14+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -805,7 +805,7 @@ msgid ""
 "reached the delta of the Great River, where Elensefar was built."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:74
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:108
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:74
 msgid ""
 "Well, now we are in the port of Elensefar... It is time to retake Elensefar, "
@@ -813,7 +813,7 @@ msgid ""
 "the city?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:78
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:112
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:78
 msgid ""
 "Here; this is my plan. On the northern side of the river, there is a cave "
@@ -821,42 +821,42 @@ msgid ""
 "if we land there."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:86
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:120
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:86
 msgid "But they won't help us?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:90
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:124
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:90
 msgid ""
 "Uhm... no, probably not. But we would be rather secretive, they probably "
 "wouldn't notice us."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:94
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:128
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:94
 msgid "Madru, do you have any suggestions?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:98
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:132
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:98
 msgid ""
 "Well, we could always land on the south beach. There is a harbor there, and "
 "a quick route from there to inside the city."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:106
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:140
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:106
 msgid "But won't they see us there?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:110
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:144
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:110
 msgid ""
 "Yes, but what's wrong with a head on battle? I think we could defeat them."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:114
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:148
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:114
 msgid ""
 "Well, I think maybe we should land right in Elensefar itself. That way, we "
@@ -864,7 +864,7 @@ msgid ""
 "bridges to the city."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:122
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:156
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:122
 msgid ""
 "That is a bold plan, but I'm not sure it will work. If you do not succeed "
@@ -872,34 +872,34 @@ msgid ""
 "accomplishing anything."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:126
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:160
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:126
 msgid "Hm... you are right there. Which plan should we use?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:128
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:162
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:128
 msgid "I say we head north, as you proposed."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:137
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:171
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:137
 msgid "Madru's plan to head south sounds the best."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:146
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:180
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:146
 msgid ""
 "Both of your plans were good, but I will stick to my own, and land in the "
 "harbor."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:157
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:191
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:157
 msgid "Very well. Let us not waste any more time, we must fight now."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:164
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:198
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:164
 msgid "Ah-Reblak"
 msgstr ""
@@ -1933,80 +1933,98 @@ msgid "Until then you cannot return to Elensefar."
 msgstr ""
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:73
-msgid "Be at sea for 12 weeks (12 turns) without reprovisioning"
+msgid "Be at sea for 6 weeks (6 turns) without reprovisioning"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:313
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:77
+msgid "Take more than 50 weeks to reach the western lands"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:206
+msgid ""
+"We have left Elensefar in the hands of the orcs. If we do not return soon, "
+"it will be of no use to return at all. We have at most 50 weeks to come back."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:210
+msgid ""
+"Also, our ship cannot hold provisions for more than 6 weeks at a time, so we "
+"must either land on an island or capture an enemy ship ever 6 weeks."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:332
 msgid ""
 "This island has no more enemies on it, but we can still reprovision here."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:330
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:349
 msgid "We have unfinished business to attend to."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:385
-msgid "We only have enough provisions for $turnsleft weeks."
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:405
+msgid ""
+"We only have enough provisions for $turnsleft weeks.\n"
+"If we do not reach Elensefar in $gameleft weeks, there will be no point."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:401
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:421
 msgid ""
 "Hurry, we are down to our last provisions! If we don't refill them within a "
 "week, we will all starve!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:411
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:431
 msgid "We have ran out of provisions.... *urgh*"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:617
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:646
 msgid ""
 "There does not seem to be anyone living on this island... except, it seems, "
 "that black-cowled man on the far side..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:627
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:656
 msgid ""
 "Last time I was here there was a trading colony, but it seems to be gone. "
 "Their old stockades should still be here, anyway."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:637
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:666
 msgid "I think something is in the water..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:647
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:676
 msgid ""
 "Legend says Haldric landed here on his journey over, and that he fought "
 "something. Lets hope we don't have to fight whatever it was..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:661
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:690
 msgid "This island looks vaguely elvish."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:671
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:700
 msgid "Does anything live in this frozen wasteland?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:685
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:714
 msgid ""
 "I see signs of a Wesnothian outpost. Odd they would come so far south..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:695
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:724
 msgid ""
 "Nagas were about a hundred years ago, in Haldric's time! I wonder if any "
 "remain..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:705
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:734
 msgid ""
 "This is old Clearwater Port! It was sacked by orcs long ago, I doubt there "
 "are any humans left."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:715
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:744
 msgid ""
 "(Black the Red) This is the land I was talking about. Land here, and we will "
 "get the warriors we need."

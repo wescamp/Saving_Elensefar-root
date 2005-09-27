@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-09-25 13:54+0200\n"
+"POT-Creation-Date: 2005-09-28 00:36+0200\n"
 "PO-Revision-Date: 2005-09-13 17:41+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
@@ -983,7 +983,7 @@ msgstr ""
 "snabbhetens besvärjelse över båten. På ett ögonblick var Meneldur och hans "
 "mannar i den stora flodens delta, där Elensefar låg."
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:74
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:108
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:74
 msgid ""
 "Well, now we are in the port of Elensefar... It is time to retake Elensefar, "
@@ -993,7 +993,7 @@ msgstr ""
 "Vi är framme i Elensefars hamn... Det är dags att återta Elensefar, såsom vi "
 "bistod Blackmore. Vad tror ni är bästa sättet att anfalla staden på?"
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:78
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:112
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:78
 msgid ""
 "Here; this is my plan. On the northern side of the river, there is a cave "
@@ -1004,12 +1004,12 @@ msgstr ""
 "smugglare gömmer sitt gods. Jag känner några banditer som inte skulle säga "
 "ett knyst om vi landsteg där."
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:86
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:120
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:86
 msgid "But they won't help us?"
 msgstr "Men de hjälper oss inte?"
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:90
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:124
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:90
 msgid ""
 "Uhm... no, probably not. But we would be rather secretive, they probably "
@@ -1018,12 +1018,12 @@ msgstr ""
 "Hm... Nej, antagligen inte. Men om vi är tillräckligt tysta, då märker de "
 "oss säkert inte ändå."
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:94
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:128
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:94
 msgid "Madru, do you have any suggestions?"
 msgstr "Madru, har du några andra förslag?"
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:98
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:132
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:98
 msgid ""
 "Well, we could always land on the south beach. There is a harbor there, and "
@@ -1032,12 +1032,12 @@ msgstr ""
 "Tja, vi skulle kunna landstiga på den södra sidan. Det finns en hamn där och "
 "man kommer snabbt in i staden den vägen."
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:106
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:140
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:106
 msgid "But won't they see us there?"
 msgstr "Men kommer de inte att se oss där?"
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:110
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:144
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:110
 msgid ""
 "Yes, but what's wrong with a head on battle? I think we could defeat them."
@@ -1045,7 +1045,7 @@ msgstr ""
 "Ja, men vad är det för fel på rättfram strid? Jag tror vi skulle kunna "
 "besegra dem."
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:114
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:148
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:114
 msgid ""
 "Well, I think maybe we should land right in Elensefar itself. That way, we "
@@ -1056,7 +1056,7 @@ msgstr ""
 "vi komma runt det mesta av orchernas försvar. De vaktar med största "
 "sannolikhet broarna in i staden."
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:122
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:156
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:122
 msgid ""
 "That is a bold plan, but I'm not sure it will work. If you do not succeed "
@@ -1067,22 +1067,22 @@ msgstr ""
 "fungera. Om du inte lyckas med detsamma så har du uppmärksammat orcherna på "
 "vår närvaro utan att ha åstadkommit något alls."
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:126
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:160
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:126
 msgid "Hm... you are right there. Which plan should we use?"
 msgstr "Hm... Det har du rätt i. Vilken plan skall vi använda då?"
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:128
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:162
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:128
 msgid "I say we head north, as you proposed."
 msgstr "Jag tycker vi går norrut, som du föreslog."
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:137
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:171
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:137
 msgid "Madru's plan to head south sounds the best."
 msgstr "Madrus plan att gå söderut låter bra."
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:146
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:180
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:146
 msgid ""
 "Both of your plans were good, but I will stick to my own, and land in the "
@@ -1090,12 +1090,12 @@ msgid ""
 msgstr ""
 "Båda era planer är bra, men jag vidhåller min egen, och landstiger i hamnen."
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:157
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:191
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:157
 msgid "Very well. Let us not waste any more time, we must fight now."
 msgstr "Nåväl. Nu får vi sätta fart."
 
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:164
+#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:198
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:164
 msgid "Ah-Reblak"
 msgstr "Ah-Reblak"
@@ -2396,25 +2396,44 @@ msgid "Until then you cannot return to Elensefar."
 msgstr "Innan dess kan du inte återvända till Elensefar."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:73
-msgid "Be at sea for 12 weeks (12 turns) without reprovisioning"
+#, fuzzy
+msgid "Be at sea for 6 weeks (6 turns) without reprovisioning"
 msgstr "Var till sjöss i tolv veckor (tolv drag) utan att proviantera"
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:313
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:77
+msgid "Take more than 50 weeks to reach the western lands"
+msgstr ""
+
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:206
+msgid ""
+"We have left Elensefar in the hands of the orcs. If we do not return soon, "
+"it will be of no use to return at all. We have at most 50 weeks to come back."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:210
+msgid ""
+"Also, our ship cannot hold provisions for more than 6 weeks at a time, so we "
+"must either land on an island or capture an enemy ship ever 6 weeks."
+msgstr ""
+
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:332
 msgid ""
 "This island has no more enemies on it, but we can still reprovision here."
 msgstr ""
 "Det finns inga fler fiender på den här ön, men vi kan fortfarande "
 "proviantera här."
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:330
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:349
 msgid "We have unfinished business to attend to."
 msgstr "Vi har ouppklarade saker att ta hand om."
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:385
-msgid "We only have enough provisions for $turnsleft weeks."
-msgstr "Våra förråd räcker bara i $turnsleft veckor till."
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:405
+msgid ""
+"We only have enough provisions for $turnsleft weeks.\n"
+"If we do not reach Elensefar in $gameleft weeks, there will be no point."
+msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:401
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:421
 msgid ""
 "Hurry, we are down to our last provisions! If we don't refill them within a "
 "week, we will all starve!"
@@ -2422,18 +2441,18 @@ msgstr ""
 "Våra förråd är snart slut! Om vi inte provianterar inom en vecka så kommer "
 "vi att svälta!"
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:411
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:431
 msgid "We have ran out of provisions.... *urgh*"
 msgstr "Vi har slut på mat och vatten... *urgh*"
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:617
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:646
 msgid ""
 "There does not seem to be anyone living on this island... except, it seems, "
 "that black-cowled man on the far side..."
 msgstr ""
 "Ön verkar obebodd... Om man bortser från mannen i svart huva där borta..."
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:627
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:656
 msgid ""
 "Last time I was here there was a trading colony, but it seems to be gone. "
 "Their old stockades should still be here, anyway."
@@ -2441,11 +2460,11 @@ msgstr ""
 "Sist jag var här så var det en handelsstation, men den verkar vara borta. "
 "Deras gamla barrikader borde fortfarande finnas kvar."
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:637
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:666
 msgid "I think something is in the water..."
 msgstr "Jag tror att det är något i vattnet..."
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:647
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:676
 msgid ""
 "Legend says Haldric landed here on his journey over, and that he fought "
 "something. Lets hope we don't have to fight whatever it was..."
@@ -2454,22 +2473,22 @@ msgstr ""
 "med något. Låt oss hoppas att vi inte blir tvungna att återuppta striden med "
 "vad det än var..."
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:661
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:690
 msgid "This island looks vaguely elvish."
 msgstr "Den här ön för tankarna till alver."
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:671
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:700
 msgid "Does anything live in this frozen wasteland?"
 msgstr "Lever det något i den här frusna ödemarken?"
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:685
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:714
 msgid ""
 "I see signs of a Wesnothian outpost. Odd they would come so far south..."
 msgstr ""
 "Jag ser tecken på en wesnothisk utpost. Underligt att de finns så här långt "
 "söderut..."
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:695
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:724
 msgid ""
 "Nagas were about a hundred years ago, in Haldric's time! I wonder if any "
 "remain..."
@@ -2477,7 +2496,7 @@ msgstr ""
 "Nagafolket bodde här för hundra år sedan, på Haldrics tid! Undrar om det "
 "finns några kvar..."
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:705
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:734
 msgid ""
 "This is old Clearwater Port! It was sacked by orcs long ago, I doubt there "
 "are any humans left."
@@ -2485,7 +2504,7 @@ msgstr ""
 "Det här är Klarvattnet! Den gamla hamnstaden! Den blev raserad av orcher för "
 "länge sedan; jag tvivlar på att det finns några människor kvar."
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:715
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:744
 msgid ""
 "(Black the Red) This is the land I was talking about. Land here, and we will "
 "get the warriors we need."
@@ -2644,6 +2663,9 @@ msgstr ""
 "Wesnoths kungliga flotta utgörs av mäktiga galjoner som var och en är "
 "utrustad med flera ballistor. Deras uppgift är att jaga pirater - eller "
 "vilka de nu får för sig att kalla pirater - och förgöra dem."
+
+#~ msgid "We only have enough provisions for $turnsleft weeks."
+#~ msgstr "Våra förråd räcker bara i $turnsleft veckor till."
 
 #~ msgid "Highwayman"
 #~ msgstr "Stråtrövare"
