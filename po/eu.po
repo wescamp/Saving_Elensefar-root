@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-09-29 13:32+0200\n"
+"POT-Creation-Date: 2005-10-03 01:22+0200\n"
 "PO-Revision-Date: 2005-04-29 20:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1888,9 +1888,9 @@ msgstr ""
 msgid "Sea Battle"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:120
+#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:130
 msgid ""
-"They had 50 gold stored in their ship, and enough provisions to restock our "
+"They had 100 gold stored in their ship, and enough provisions to restock our "
 "ship."
 msgstr ""
 
@@ -1952,79 +1952,80 @@ msgid ""
 "must either land on an island or capture an enemy ship ever 6 weeks."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:332
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:328
 msgid ""
-"This island has no more enemies on it, but we can still reprovision here."
+"This island has no more enemies on it, but we can still reprovision here. "
+"That will still take time, though."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:349
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:345
 msgid "We have unfinished business to attend to."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:405
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:401
 msgid ""
 "We only have enough provisions for $turnsleft weeks.\n"
 "We must reach Elensefar in $gameleft weeks."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:421
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:417
 msgid ""
 "Hurry, we are down to our last provisions! If we don't refill them within a "
 "week, we will all starve!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:431
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:427
 msgid "We have ran out of provisions.... *urgh*"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:646
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:642
 msgid ""
 "There does not seem to be anyone living on this island... except, it seems, "
 "that black-cowled man on the far side..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:656
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:652
 msgid ""
 "Last time I was here there was a trading colony, but it seems to be gone. "
 "Their old stockades should still be here, anyway."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:666
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:662
 msgid "I think something is in the water..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:676
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:672
 msgid ""
 "Legend says Haldric landed here on his journey over, and that he fought "
 "something. Lets hope we don't have to fight whatever it was..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:690
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:686
 msgid "This island looks vaguely elvish."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:700
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:696
 msgid "Does anything live in this frozen wasteland?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:714
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:710
 msgid ""
 "I see signs of a Wesnothian outpost. Odd they would come so far south..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:724
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:720
 msgid ""
 "Nagas were about a hundred years ago, in Haldric's time! I wonder if any "
 "remain..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:734
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:730
 msgid ""
 "This is old Clearwater Port! It was sacked by orcs long ago, I doubt there "
 "are any humans left."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:744
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:740
 msgid ""
 "(Black the Red) This is the land I was talking about. Land here, and we will "
 "get the warriors we need."
@@ -2066,31 +2067,31 @@ msgstr ""
 msgid "Fight on!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/utils/utils.cfg:217
+#: Saving_Elensefar/scenarios/utils/utils.cfg:256
 msgid "{DESC}"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/utils/utils.cfg:230
+#: Saving_Elensefar/scenarios/utils/utils.cfg:269
 msgid "quick, resilient"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/utils/utils.cfg:231
+#: Saving_Elensefar/scenarios/utils/utils.cfg:270
 msgid "strong, resilient"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/utils/utils.cfg:232
+#: Saving_Elensefar/scenarios/utils/utils.cfg:271
 msgid "intelligent, resilient"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/utils/utils.cfg:233
+#: Saving_Elensefar/scenarios/utils/utils.cfg:272
 msgid "strong, quick"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/utils/utils.cfg:234
+#: Saving_Elensefar/scenarios/utils/utils.cfg:273
 msgid "strong, intelligent"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/utils/utils.cfg:235
+#: Saving_Elensefar/scenarios/utils/utils.cfg:274
 msgid "quick, intelligent"
 msgstr ""
 
