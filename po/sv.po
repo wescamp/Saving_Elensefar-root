@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-03 01:22+0200\n"
-"PO-Revision-Date: 2005-09-13 17:41+0200\n"
-"Last-Translator: tephlon\n"
+"PO-Revision-Date: 2005-10-04 17:26+0200\n"
+"Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,6 @@ msgid "Saving Elensefar"
 msgstr "Elensefars Undsättning"
 
 #: Saving_Elensefar.cfg:14
-#, fuzzy
 msgid ""
 "Meneldur, elvish mariner of Elensefar, is driven to sea by the same orcs who "
 "attacked the city. He must gather an army willing to fight for him to regain "
@@ -28,7 +27,8 @@ msgstr ""
 "Meneldur, alvsjöman från Elensefar, fördrivs till sjöss av samma orcher som "
 "anfaller staden. Han måste samla ihop en armé som är villig att slåss för "
 "att återta Elensefar, hans hem.\n"
-"(Version 0.8.4, 2005-07-03)"
+"\n"
+"(Version "
 
 #: Saving_Elensefar.cfg:17
 msgid "(medium)"
@@ -2346,12 +2346,11 @@ msgid "Sea Battle"
 msgstr "Sjöslag"
 
 #: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:130
-#, fuzzy
 msgid ""
 "They had 100 gold stored in their ship, and enough provisions to restock our "
 "ship."
 msgstr ""
-"De hade 50 guldstycken i skeppslasten, och tillräckligt med mat för att "
+"De hade 100 guldstycken i skeppslasten, och tillräckligt med mat för att "
 "fylla våra förråd."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:3
@@ -2397,45 +2396,49 @@ msgid "Until then you cannot return to Elensefar."
 msgstr "Innan dess kan du inte återvända till Elensefar."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:73
-#, fuzzy
 msgid "Be at sea for 6 weeks (6 turns) without reprovisioning"
-msgstr "Var till sjöss i tolv veckor (tolv drag) utan att proviantera"
+msgstr "Var till sjöss i 6 veckor (6 drag) utan att proviantera"
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:77
 msgid "Take more than 30 weeks to reach the western lands"
-msgstr ""
+msgstr "Misslyckas med att nå de länderna i väster på 30 veckor"
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:206
 msgid ""
 "We have left Elensefar in the hands of the orcs. If we do not return soon, "
 "it will be of no use to return at all. We have at most 50 weeks to come back."
 msgstr ""
+"Vi har lämnat Elensefar i orchernas klor. Om vi inte återkommer snart, så "
+"finns det ingen mening att återkomma alls. Vi har 50 veckor på oss, som mest."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:210
 msgid ""
 "Also, our ship cannot hold provisions for more than 6 weeks at a time, so we "
 "must either land on an island or capture an enemy ship ever 6 weeks."
 msgstr ""
+"Dessutom rymmer inte vårt skepp proviant för mer än 6 veckor i taget, så vi "
+"måste antingen gå i land på en ö eller borda ett fiendeskepp var sjätte "
+"vecka för att proviantera."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:328
-#, fuzzy
 msgid ""
 "This island has no more enemies on it, but we can still reprovision here. "
 "That will still take time, though."
 msgstr ""
 "Det finns inga fler fiender på den här ön, men vi kan fortfarande "
-"proviantera här."
+"proviantera här. Det kommer att ta tid, dock."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:345
 msgid "We have unfinished business to attend to."
 msgstr "Vi har ouppklarade saker att ta hand om."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:401
-#, fuzzy
 msgid ""
 "We only have enough provisions for $turnsleft weeks.\n"
 "We must reach Elensefar in $gameleft weeks."
-msgstr "Våra förråd räcker bara i $turnsleft veckor till."
+msgstr ""
+"Våra förråd räcker bara i $turnsleft veckor till. Vi måste nå Elensefar inom "
+"$gameleft veckor."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:417
 msgid ""
@@ -2658,52 +2661,11 @@ msgid "War Galleon"
 msgstr "Örlogsgaljon"
 
 #: Saving_Elensefar/units/War_Galleon.cfg:22
-#, fuzzy
 msgid ""
 "The Royal Navy of Wesnoth owns a powerful fleet of deadly war galleons. "
 "Their task is to hunt down pirates - or whoever they choose to call pirates "
 "- and destroy them. "
 msgstr ""
-"Wesnoths kungliga flotta utgörs av mäktiga galjoner som var och en är "
-"utrustad med flera ballistor. Deras uppgift är att jaga pirater - eller "
-"vilka de nu får för sig att kalla pirater - och förgöra dem."
-
-#~ msgid "Highwayman"
-#~ msgstr "Stråtrövare"
-
-#~ msgid ""
-#~ "Armed with heavy mace, Highwaymen are the last people you want to meet on "
-#~ "a deserted road late at night."
-#~ msgstr ""
-#~ "Beväpnade med tunga spikklubbor som de är, så är stråtrövarna de sista du "
-#~ "vill möta på en ödslig väg sent på natten."
-
-#~ msgid "mace"
-#~ msgstr "spikklubba"
-
-#~ msgid "Shadow Lord"
-#~ msgstr "Skuggfurste"
-
-#~ msgid "astral blade"
-#~ msgstr "andeklinga"
-
-#~ msgid "magical"
-#~ msgstr "magisk"
-
-#~ msgid "shadow bolt"
-#~ msgstr "skuggblixt"
-
-#~ msgid "cold"
-#~ msgstr "kyla"
-
-#~ msgid "shadow blast"
-#~ msgstr "skuggstöt"
-
-#~ msgid "Shadow Mage"
-#~ msgstr "Skuggmagiker"
-
-#~ msgid "short sword"
-#~ msgstr "kortsvärd"
-
-#~ msgid "ice blast"
-#~ msgstr "isstöt"
+"Wesnoths kungliga flotta innehar ett flertal mäktiga örlogsgaljoner. Deras "
+"uppgift är att jaga pirater - eller vilka de nu får för sig att kalla "
+"pirater - och förgöra dem."
