@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-10-03 01:22+0200\n"
+"POT-Creation-Date: 2005-11-03 23:38+0100\n"
 "PO-Revision-Date: 2005-04-29 20:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -155,7 +155,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:103
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:54
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:51
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:73
+#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:72
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:48
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:73
 #: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:59
@@ -176,7 +176,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:107
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:58
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:55
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:77
+#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:76
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:52
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:77
 #: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:63
@@ -196,7 +196,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:68
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:66
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:63
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:89
+#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:88
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:60
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:85
 #: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:71
@@ -248,7 +248,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:111
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:62
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:59
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:81
+#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:80
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:56
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:81
 #: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:67
@@ -377,7 +377,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:63
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:91
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:105
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:69
+#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:68
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:69
 msgid "Defeat enemy leaders"
 msgstr ""
@@ -645,92 +645,92 @@ msgstr ""
 msgid "Whatever you say. We'll deal with you after we kill the orcs."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:418
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:421
 msgid "Elensefar may be ours, but there are still enemies to defeat. Onwards!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:429
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:432
 msgid ""
 "We have taken Elensefar and defeated the Wesnothians, but these Elves need "
 "attending to."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:435
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:496
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:558
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:438
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:502
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:567
 msgid "There are no enemies left - we have succeeded in retaking Elensefar."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:447
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:450
 msgid ""
 "The orcs had ransacked the city's coffers - now it's time for us to return "
 "the favor."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:452
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:455
 msgid "You find 300 pieces of gold!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:455
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:458
 msgid "You find 250 pieces of gold!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:458
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:513
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:575
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:461
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:519
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:584
 msgid "You find 200 pieces of gold!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:479
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:485
 msgid "Good work, men. Onwards, we have to retake the city also!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:490
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:496
 msgid "Come on, we should go North and see if we can help defeat the elves."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:508
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:514
 msgid "The Wesnothians had much gold in their camp. It is ours now!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:516
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:578
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:522
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:587
 msgid "You find 175 pieces of gold!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:519
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:581
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:525
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:590
 msgid "You find 150 pieces of gold!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:541
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:550
 msgid "Orcs still reside in the city! Come one, let us kill them too!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:552
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:561
 msgid ""
 "Come on, we should go South and see if we can help defeat the Wesnothians."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:570
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:579
 msgid ""
 "It seems the elves brought some of their treasure out of the northlands. "
 "More for us!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:594
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:603
 msgid ""
 "Yes, Elensefar is ours, finally. Well, Black the Red, we thank you for your "
 "help."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:598
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:607
 msgid ""
 "It was an honor to fight for you. I wonder where my people will go now... "
 "the orcs have surely taken our home by now."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:602
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:611
 msgid ""
 "I'm sure we will have time to discuss that later. But for now, we must help "
 "those conquered by the orcs rebuild their city."
@@ -911,7 +911,7 @@ msgstr ""
 msgid "Epilogue"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:40
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:39
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:40
 msgid ""
 "Meneldur, Black the Red, and Madru went to the Elensian palace, and searched "
@@ -922,7 +922,7 @@ msgid ""
 "then."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:44
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:43
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:44
 msgid ""
 "The three rescuers told him their tale, of how Elensefar was no longer a "
@@ -936,26 +936,26 @@ msgid ""
 "felt betrayed."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:62
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:61
 msgid ""
 "I still cannot believe that the men of Wesnoth, or the elves, would really "
 "fight to keep men of Elensefar from aiding Elensefar. What made them do it, "
 "do you think?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:66
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:65
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:66
 msgid ""
 "Well, hatred of me, and the perception that I was a traitor to my race, was "
 "what fueled the elven attack."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:70
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:69
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:70
 msgid "They were willing to sacrifice a whole city to get revenge on one elf?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:74
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:73
 msgid ""
 "They did not think they were sacrificing it. They planned to attack the orcs "
 "right after they killed us; in fact, they were fighting the orcs at the same "
@@ -963,14 +963,14 @@ msgid ""
 "thought the Orcs would kill the elven prisoners if they did."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:78
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:77
 msgid ""
 "So they made a peace with the orcs because they feared their own kind's "
 "death? Don't they know orcs cannot be trusted? All the elves who lived in "
 "this city were slain long ago."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:82
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:81
 msgid ""
 "When you are in danger of being attacked, you do not think clearly. Their "
 "attack was a mixture of motives, I would say. Hatred of Meneldur, fear of an "
@@ -978,17 +978,17 @@ msgid ""
 "something else, I am not sure what, all made them willing to ally with evil."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:86
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:85
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:86
 msgid "That does not excuse them, though, and they deserved to die."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:90
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:89
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:90
 msgid "None of us are saying they did not."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:94
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:93
 msgid ""
 "I would. We do not know the circumstances of their peace treaty, nor even to "
 "say whether an alliance, if there had been one, would have been evil. After "
@@ -996,14 +996,14 @@ msgid ""
 "circumstances are very similar."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:98
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:97
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:98
 msgid ""
 "They are only similar if you assume that undead are evil. Some are, true, "
 "but not all. Mine and my brother's are not."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:102
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:101
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:102
 msgid ""
 "I may be your ally, but I will never say your undead are not evil. You are "
@@ -1011,38 +1011,38 @@ msgid ""
 "undeath. But undead are evil."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:106
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:105
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:106
 msgid ""
 "Come on now. Well, it is true that the circumstances are not in truth "
 "similar, but they do appear to be. The elves may have thought they were."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:110
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:109
 msgid ""
 "I see, Meneldur. Well, I can see, in a distorted way, why the elves attacked "
 "us. But why were the humans willing to discard our age-old alliance, and "
 "attack us before the orcs?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:114
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:113
 msgid ""
 "Well, we did attack them, multiple times. Although it was really self-"
 "defence."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:118
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:117
 msgid ""
 "They wished to defeat us first, then attack the orcs. Indeed, the elves and "
 "humans could have both had that plan. But the elves lost their temper right "
 "as we arrived, and attacked the orcs immediately."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:122
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:121
 msgid "That is called treachery, and would not excuse a treaty with the orcs."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:126
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:125
 msgid ""
 "I agree that it would be treachery, but I think it is not what they planned. "
 "The men of Wesnoth do not see good and evil as we do. To them, good is what "
@@ -1051,26 +1051,26 @@ msgid ""
 "to create provinces in the north unopposed."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:130
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:129
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:134
 msgid ""
 "Possibly. However, all of this is just speculation. We cannot know why they "
 "actually attacked us, can we? We can only guess."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:134
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:133
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:138
 msgid "Which is why this is rather pointless."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:138
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:137
 msgid ""
 "Well, I must be going. I do not know where my people will go now; so few are "
 "left alive. But I will not stay in this city, it is too dangerous. I will go "
 "north."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:142
+#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:141
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:146
 msgid ""
 "Very well. I suppose this council is ended, and the real work of Daharan's "
@@ -1233,7 +1233,7 @@ msgid "Theft"
 msgstr ""
 
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:71
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:85
+#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:84
 msgid "Death of Psison"
 msgstr ""
 
@@ -1298,31 +1298,31 @@ msgstr ""
 msgid "Back to the Ship"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:111
+#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:110
 msgid ""
 "Time to get our ship back. These islands are inhabited, there should be a "
 "harbor *somewhere*."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:115
+#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:114
 msgid ""
 "These Nagas don't leave us alone! They're here again, and the ship is here "
 "somewhere too."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:126
+#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:125
 msgid "Orcs! More orcs!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:138
+#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:137
 msgid "I knew there were nagas around here..."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:146
+#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:145
 msgid "Now, to the harbor, and back on to the ship!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:150
+#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:149
 msgid ""
 "I will leave you now, but the fighters who fought for you will still help "
 "you, they say."
@@ -1945,7 +1945,9 @@ msgstr ""
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:206
 msgid ""
 "We have left Elensefar in the hands of the orcs. If we do not return soon, "
-"it will be of no use to return at all. We have at most 50 weeks to come back."
+"it will be of no use to return at all. We have at most 30 weeks to get to "
+"the western lands, where we will meet with the people Black the Red has "
+"spoken of. That will leave us with 5 weeks to get back."
 msgstr ""
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:210
