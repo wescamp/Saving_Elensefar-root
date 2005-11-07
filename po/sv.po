@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-11-03 23:38+0100\n"
-"PO-Revision-Date: 2005-10-04 17:26+0200\n"
+"PO-Revision-Date: 2005-11-07 19:55+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -2404,7 +2404,6 @@ msgid "Take more than 30 weeks to reach the western lands"
 msgstr "Misslyckas med att nå de länderna i väster på 30 veckor"
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:206
-#, fuzzy
 msgid ""
 "We have left Elensefar in the hands of the orcs. If we do not return soon, "
 "it will be of no use to return at all. We have at most 30 weeks to get to "
@@ -2412,7 +2411,9 @@ msgid ""
 "spoken of. That will leave us with 5 weeks to get back."
 msgstr ""
 "Vi har lämnat Elensefar i orchernas klor. Om vi inte återkommer snart, så "
-"finns det ingen mening att återkomma alls. Vi har 50 veckor på oss, som mest."
+"finns det ingen mening att återkomma alls. Vi har 30 veckor på oss, på sin "
+"höjd, att komma fram till länderna i väster, där vi skall möta de som Black "
+"den Röde pratade om. Det ger oss 5 veckor att komma tillbaka på."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:210
 msgid ""
