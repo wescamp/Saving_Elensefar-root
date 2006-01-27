@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-01-24 00:18+0100\n"
-"PO-Revision-Date: 2005-12-13 21:20+0100\n"
+"PO-Revision-Date: 2006-01-27 21:59+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -2410,7 +2410,7 @@ msgstr "Var till sjöss i 6 veckor (6 drag) utan att proviantera"
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:76
 msgid "Take more than 30 weeks to reach the western lands"
-msgstr "Misslyckas med att nå de länderna i väster på 30 veckor"
+msgstr "Misslyckas med att nå länderna i väster på 30 veckor"
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:205
 msgid ""
@@ -2446,13 +2446,12 @@ msgid "We have unfinished business to attend to."
 msgstr "Vi har ouppklarade saker att ta hand om."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:399
-#, fuzzy
 msgid ""
 "We only have enough provisions for $turnsleft weeks; we must reach the "
 "Western Lands in $gameleft weeks."
 msgstr ""
-"Våra förråd räcker bara i $turnsleft drag till. Vi måste nå Elensefar inom "
-"$gameleft veckor."
+"Våra förråd räcker bara i $turnsleft veckor. Vi måste nå länderna i väster "
+"inom $gameleft veckor."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:415
 msgid ""
@@ -2679,6 +2678,3 @@ msgstr ""
 "Wesnoths kungliga flotta innehar ett flertal mäktiga örlogsgaljoner. Deras "
 "uppgift är att jaga pirater - eller vilka de nu får för sig att kalla "
 "pirater - och förgöra dem."
-
-#~ msgid "leadership"
-#~ msgstr "ledarskap"
