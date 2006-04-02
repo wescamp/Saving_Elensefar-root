@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: saving-elensefar-it\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:47+0100\n"
-"PO-Revision-Date: 2006-03-25 22:44+0100\n"
+"PO-Revision-Date: 2006-04-02 12:15+0200\n"
 "Last-Translator: Luciano Montanaro <mikelima@cirulla.net>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -949,6 +949,12 @@ msgid ""
 "there, vowed that, if they could, they would raise an army and return to "
 "Elensefar, to defeat the orcs and claim whatever of the city remained."
 msgstr ""
+"Meneldur non sapeva esattamente che cosa questo significasse, ma sapeva una "
+"cosa - se la città non era stata distrutta, nemmeno la gente al suo interno "
+"era stata uccisa. Il che significava che era ancora possibile liberare la "
+"città. Quindi giurò assieme a Mandru che, se avesse potuto, avrebbe radunato "
+"un esercito per tornare ad Elensefar e sconfiggere gli orchi e reclamare "
+"quello che restava della città."
 
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:87
 #: Saving_Elensefar/scenarios/fake1-Attacked_at_Sea.cfg:88
@@ -963,7 +969,7 @@ msgstr "Mai!"
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:126
 #: Saving_Elensefar/scenarios/fake1-Attacked_at_Sea.cfg:125
 msgid "Lower the gangplank! Throw the grapples! DON'T LET THEM ESCAPE!"
-msgstr ""
+msgstr "Abbassate le passerelle! Lanciate i rampini! NON LASCIAMOLI SFUGGIRE!"
 
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:145
 #: Saving_Elensefar/scenarios/fake1-Attacked_at_Sea.cfg:144
@@ -1021,6 +1027,9 @@ msgid ""
 "where smugglers hide their goods. I know some bandits who won't alert anyone "
 "if we land there."
 msgstr ""
+"Ecco, questo è il mio piano. Sulla sponda nord del fiume, c'è una grotta "
+"dove i contrabbandieri nascondono i loro carichi. Conosco dei banditi che "
+"non avviseranno nessuno se sbarchiamo lì."
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:86
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:120
@@ -1070,6 +1079,9 @@ msgid ""
 "can go around most of the orcish defenses, which are probably guarding the "
 "bridges to the city."
 msgstr ""
+"Be', credo che dovremmo sbarcare direttamente ad Elensefar. In questo modo, "
+"potremmo aggirare la maggior parte della difesa degli orchi, che "
+"probabilmente sorvegliano i ponti che portano alla città."
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:122
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:156
@@ -1130,6 +1142,12 @@ msgid ""
 "sacked, he had no knowledge of what had occurred in the many months since "
 "then."
 msgstr ""
+"Meneldur, Nero il Rosso e Mandru si recarono al palazzo di Elensefar, e "
+"setacciarono le segrete in cerca dei prigionieri degli orchi. Trovarono "
+"molti dell'antica nobiltà, compreso quello che era stato il signore di "
+"Elensefar, sir Darahan di Wesnoth. Essendo stato messo in prigione subito "
+"dopo il saccheggio della città, non era a conoscenza di ciò che era accaduto "
+"da molti mesi da allora."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:43
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:44
@@ -1144,6 +1162,16 @@ msgid ""
 "of Wesnoth who had finally come to unlock his cell door. Needless to say, he "
 "felt betrayed."
 msgstr ""
+"I tre liberatori gli raccontarono l'accaduto, gli spiegarono che Elensefar "
+"non era più provincia di Wesnoth e che i non-morti erano temporaneamente "
+"alloggiati nella città. Era stato un leale sostenitore della corona prima "
+"della prigionia, ed anche in prigione era stato in costante attesa delle "
+"truppe di Wesnoth venute per liberarlo. Fino a che non gli fu raccontato del "
+"tradimento, credette che fossero gli uomini di Wenoth che erano venuti dal "
+"mare per assediare la città, gli uomini di Wesnoth che avevano combattuto "
+"nelle strade per raggiungere il condottiero degli orchi, gli uomini di "
+"Wesnoth che erano giunti alla fine ad aprire la porta della sua cella. "
+"Inutile dirlo, si sentì tradito."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:61
 msgid ""
@@ -1171,13 +1199,17 @@ msgstr ""
 "Erano disposti a sacrificare un'intera città per vendicarsi di un solo elfo?"
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:73
-#, fuzzy
 msgid ""
 "They did not think they were sacrificing it. They planned to attack the orcs "
 "right after they killed us; in fact, they were fighting the orcs at the same "
 "time they fought us. But before that, they had not attacked because they "
 "thought the Orcs would kill the elven prisoners if they did."
-msgstr "Non pensavano che l'avrebbero sacrificata. "
+msgstr ""
+"Non pensavano che l'avrebbero sacrificata. Il piano era di attaccare gli "
+"orchi subito dopo averci ucciso; in effetti, stavano combattendo contro gli "
+"orchi proprio mentre stavano combattendo contro di noi. Ma non avevano "
+"attaccato prima perché pensavano che gli orchi avrebbero ucciso i "
+"prigionieri elfici se lo avessero fatto."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:77
 msgid ""
@@ -1185,6 +1217,9 @@ msgid ""
 "death? Don't they know orcs cannot be trusted? All the elves who lived in "
 "this city were slain long ago."
 msgstr ""
+"Così hanno stipulato la pace con gli orchi perché temevano la morte dei loro "
+"simili? Non sanno che non ci si può fidare degli orchi? Tutti gli elfi che "
+"vivevano in questa città sono stati uccisi molto tempo fa."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:81
 msgid ""
@@ -1193,6 +1228,10 @@ msgid ""
 "orcish attack on their own country, fear of their kinsmen's death, and "
 "something else, I am not sure what, all made them willing to ally with evil."
 msgstr ""
+"Quando si rischia di essere attaccati, non si pensa chiaramente. Ci hanno "
+"attaccato per vari motivi, credo. L'odio per Meneldur, la paura che gli "
+"orchi attaccassero la loro terra, paura che i consanguinei venissero uccisi, "
+"e chissà che altro, li ha resi disponibili ad un'alleanza con gli orchi."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:85
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:86
@@ -1202,7 +1241,7 @@ msgstr "Questo non li scusa, però, e meritano di morire."
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:89
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:90
 msgid "None of us are saying they did not."
-msgstr ""
+msgstr "Nessuno sta dicendo il contrario."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:93
 msgid ""
@@ -1218,6 +1257,8 @@ msgid ""
 "They are only similar if you assume that undead are evil. Some are, true, "
 "but not all. Mine and my brother's are not."
 msgstr ""
+"Sono simili solo se si assume che i non morti siano malvagi. Alcuni lo sono, "
+"è vero, ma non tutti. I miei e quelli di mio fratello non lo sono."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:101
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:102
@@ -1226,6 +1267,9 @@ msgid ""
 "probably not, probably you are just decieved as to what really occurs with "
 "undeath. But undead are evil."
 msgstr ""
+"Io posso essere un tu alleato, ma non dirò mai che i non-morti non siano "
+"malvagi. Tu probabilmente non lo sei, forse sei solo stato ingannato su "
+"quello che accade con la non-morte. Ma i non-morti sono malvagi."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:105
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:106
@@ -1233,6 +1277,9 @@ msgid ""
 "Come on now. Well, it is true that the circumstances are not in truth "
 "similar, but they do appear to be. The elves may have thought they were."
 msgstr ""
+"Andiamo, ora. Be', è vero che le circostanza non sono molto simili, in "
+"verità, ma sembra che lo siano. Gli elfi potrebbero aver creduto che lo "
+"fossero."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:109
 msgid ""
@@ -1240,12 +1287,17 @@ msgid ""
 "us. But why were the humans willing to discard our age-old alliance, and "
 "attack us before the orcs?"
 msgstr ""
+"Vedo, Meneldur. Be', posso immaginare, in un modo distorto, perché gli elfi "
+"ci abbiano attaccato. Ma come mai gli umani erano disposti a ignorare la "
+"nostra antica alleanza, e ad attaccarci prima degli orchi?"
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:113
 msgid ""
 "Well, we did attack them, multiple times. Although it was really self-"
 "defence."
 msgstr ""
+"Be', noi li abbiamo attaccati, più di una volta. Anche se in realtà era "
+"autodifesa."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:117
 msgid ""
@@ -1253,6 +1305,10 @@ msgid ""
 "humans could have both had that plan. But the elves lost their temper right "
 "as we arrived, and attacked the orcs immediately."
 msgstr ""
+"Volevano sconfiggere noi all'inizio, per poi attaccare gli orchi. In effetti "
+"sia gli elfi che gli umani potrebbero aver avuto un piano simile. Ma gli "
+"elfi hanno perso il sangue freddo appena siamo arrivati, ed hanno attaccato "
+"gli orchi immediatamente."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:121
 msgid "That is called treachery, and would not excuse a treaty with the orcs."
@@ -1273,11 +1329,14 @@ msgid ""
 "Possibly. However, all of this is just speculation. We cannot know why they "
 "actually attacked us, can we? We can only guess."
 msgstr ""
+"È possibile. Però tutto questo è pura speculazione. Non possiamo sapere il "
+"vero motivo per cui ci hanno attaccato, no? Possiamo solo provare ad "
+"indovinarlo."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:133
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:138
 msgid "Which is why this is rather pointless."
-msgstr ""
+msgstr "È per questo che è inutile discuterne."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:137
 msgid ""
@@ -1285,6 +1344,8 @@ msgid ""
 "left alive. But I will not stay in this city, it is too dangerous. I will go "
 "north."
 msgstr ""
+"Be', devo andare. Non so dove andrà la mia gente, adesso; siamo rimasti così "
+"in pochi. Ma non resterò in questa città, è troppo pericoloso. Andrò a nord."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:141
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:146
@@ -1339,6 +1400,10 @@ msgid ""
 "whether the alliance itself was evil. After all, our alliance with undead is "
 "not, from our view, evil, but the circumstances are very similar."
 msgstr ""
+"Chissà. Non conosciamo le circostanze della loro alleanza, e non posso "
+"esprimermi sul fatto che l'alleanza stessa fosse di per sé un male. "
+"Dopotutto, la nostra alleanza con i non-morti non è, dal punto di vista "
+"nostro, malvagia, eppure le circostanze sono molto simili."
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:110
 msgid ""
@@ -1346,10 +1411,13 @@ msgid ""
 "us. But why were the humans willing to discard our old alliance in favor of "
 "one with orcs?"
 msgstr ""
+"Vedo, Meneldur. Be', posso immaginare, in un modo distorto, perché gli elfi "
+"ci abbiano attaccato. Ma come mai gli umani erano disposti a ignorare la "
+"nostra antica alleanza piuttosto che quella con gli orchi?"
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:114
 msgid "Well, we did attack them, multiple times."
-msgstr "Be' noi li abbiamo attaccati varie volte."
+msgstr "Be', noi li abbiamo attaccati varie volte."
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:118
 msgid "Again, why does that give them reason to sacrifice our city?"
@@ -1378,6 +1446,12 @@ msgid ""
 "on an alliance with an orcish state, because that would allow them to create "
 "provinces in the north unopposed."
 msgstr ""
+"Concordo che sarebbe tradimento, ma credo che non sia quello che avevano in "
+"mente. Per gli uomini di Wesnoth il concetto di bene ed di male non è come "
+"il nostro. Per loro il bene è ciò che avvantaggia Wesnoth, il male ciò che "
+"la danneggia. Probabilmente hanno effettivamente progettato di allearsi con "
+"uno stato orchesco, poiché ciò permetterebbe loro di creare colonie nel nord "
+"senza nessuna opposizione."
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:142
 msgid "Well, I must be going. I do have a ship to load, and an army to disarm."
@@ -1396,12 +1470,13 @@ msgstr ""
 "la tua posizione! Sei un mago rosso o un mago bianco?"
 
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:84
-#, fuzzy
 msgid ""
 "What? Do you mean to tell me that the great lich Jevyan does not reign on "
 "that continent, or that his mages no longer wear the robes of the "
 "necromancer?!?"
-msgstr "Che cosa?"
+msgstr ""
+"Che cosa? Vuoi dire che il grande lich Jevyan non regna su quel continente, "
+"o che i suoi maghi non indossano più le vesti dei negromanti?"
 
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:88
 msgid ""
@@ -1472,7 +1547,7 @@ msgstr ""
 
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:3
 msgid "Theft"
-msgstr ""
+msgstr "Il furto"
 
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:88
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:71
@@ -1522,6 +1597,8 @@ msgid ""
 "They've found us! Workers, get that boat out of here! We will secure time "
 "for your escape."
 msgstr ""
+"Ci hanno trovato! Lavoratori, portate via quella barca da qui! Ci "
+"procureremo il tempo per la vostra fuga."
 
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:199
 msgid "Orcs! Kill them!"
@@ -1636,6 +1713,9 @@ msgid ""
 "So say you. Well, Black, we'd better go. Its best not to kill more elves; "
 "even if we defeat them, it will just make the rest even angrier at us."
 msgstr ""
+"Questo lo dici tu. Be' Nero, dobbiamo andare. È meglio non uccidere altri "
+"elfi; anche se li sconfiggiamo, renderemmo gli altri ancora più adirati nei "
+"nostri confronti."
 
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:126
 msgid ""
@@ -1682,6 +1762,8 @@ msgid ""
 "And won't those superiors send out even more ships? If we let Kalandur get "
 "away, they will know where we are and where we are coming from."
 msgstr ""
+"E i superiori non invieranno altre navi? Se lasciamo che Kalandur scappi, "
+"sapranno dove siamo e da dove veniamo."
 
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:156
 msgid "Very well. Onward!"
@@ -1693,12 +1775,17 @@ msgid ""
 "only following the commands of their twisted leader. Perhaps if we spare "
 "them their lives, they will join us after we defeat them."
 msgstr ""
+"Così abbiamo ucciso un elfo! Non mi piace - non sono malvagi, seguono solo "
+"gli ordini del loro condottiero contorto. Forse se risparmiamo loro la vita, "
+"si uniranno a noi dopo essere stati sconfitti."
 
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:177
 msgid ""
 "Look - there is a bridge here that Kalandur was guarding. I guess we should "
 "go across, but I don't have any idea what is there."
 msgstr ""
+"Guarda - c'è un pontequi che Kalandur stava proteggendo. Scommetto che "
+"dovremmo attraversarlo, ma non ho idea di che cosa ci sia laggiù."
 
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:181
 msgid "Nor do I. Probably more enemies."
@@ -1709,6 +1796,8 @@ msgid ""
 "Wait! I know what's across that bridge - its more elves, who will want to "
 "kill you, and orcs."
 msgstr ""
+"Aspettate! So che cosa c'è oltre il ponte - ci sono altri elfi, che vi "
+"vogliono uccidere, e degli orchi."
 
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:195
 msgid "Well then, we will have a common foe with these elves!"
@@ -1793,6 +1882,8 @@ msgid ""
 "Uh, yeah, of course... we be da same tribe... uh... Prepare to die, stupid "
 "dog-man!"
 msgstr ""
+"Uh, già, certo... della stessa tribù... uh... preparati a morire stupido "
+"uomo-cane!"
 
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:142
 msgid ""
@@ -1924,6 +2015,9 @@ msgid ""
 "Elensefar is not yet destroyed. The orcs are using it as their base for "
 "attacking us."
 msgstr ""
+"Saluti, traditore. Ho delle notizie che credo ti faranno piacere; Elensefar "
+"non è ancora stata distrutta. Gli orchi la usano come base per i loro "
+"attacchi a noi."
 
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:82
 msgid ""
@@ -1947,7 +2041,7 @@ msgstr ""
 
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:3
 msgid "A King's Demand"
-msgstr ""
+msgstr "Un ordine del re"
 
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:97
 msgid ""
@@ -1990,6 +2084,9 @@ msgid ""
 "further up the isle... I tell you, if you refuse this you are a dead man, "
 "whether I die or not."
 msgstr ""
+"La tua nave è stata catturata da altri dei nostri. Non hai idea di che cosa "
+"ti aspetti più avanti nell'isola... te lo dirò, se ti rifiuti sei un uomo "
+"morto, che io sopravviva o no."
 
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:117
 msgid "Your threats do not scare me. Prepare for battle, men!"
@@ -2060,7 +2157,7 @@ msgstr ""
 
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:3
 msgid "Off the Peninsula"
-msgstr ""
+msgstr "Via dalla penisola"
 
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:96
 msgid ""
@@ -2086,7 +2183,7 @@ msgstr "«Arreso» non è la parola che userei, ma dì pure come vuoi."
 
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:111
 msgid "So, it is the traitor returning to greet his foe. How pleasant."
-msgstr ""
+msgstr "Così il traditore ritorna a salutare il suo nemico. Molto piacere."
 
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:115
 msgid ""
@@ -2099,6 +2196,8 @@ msgid ""
 "I am the men's captain, so those who quarrel with them quarrel with me. We "
 "elves and men have aligned to bring you down!"
 msgstr ""
+"Sono il capitano di questi uomini, quindi se hai delle dispute con loro le "
+"hai con me. Noi elfi ed uomini ci siamo alleati per farti cadere!"
 
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:123
 msgid "Think what you like. We will fight you if need be."
@@ -2109,6 +2208,8 @@ msgid ""
 "Oh, and I see some of the Wesnothians you found are turncoats. Don't worry, "
 "they will die also."
 msgstr ""
+"Oh, e vedo che alcuni dei Wesnothiani che hai incontrato sono dei "
+"voltagabbana. Non ti preoccupare, moriranno anche loro."
 
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:147
 msgid ""
@@ -2198,6 +2299,9 @@ msgid ""
 "north to help with your trying to take over the castle!?! Not going to "
 "happen on my watch!"
 msgstr ""
+"Così, piccole larve di orchi, siete scesi tanto in basso da chiedere l'aiuto "
+"dei Wesfolk dal nord per la presa del castello? Non succederà durante il mio "
+"turno di guardia!"
 
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:137
 msgid ""
@@ -2205,12 +2309,18 @@ msgid ""
 "help! You been king far too long, Bakrakra! You aint got us meat, and you "
 "aint got us land. Me, Asknak here, or even a lich 'ud be better than you!"
 msgstr ""
+"Non abbiamo chiamato nessun rifiuto umano dal nord, anche se potremmo farne "
+"uso! Sei stato re per troppo tempo, Bakrakra! Non ci hai procurato carne, e "
+"non ci hai procuato terra. Io, o Asknak quaggù, o anche un lich sarebbe "
+"meglio di te!"
 
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:141
 msgid ""
 "That right. You're keeping all the food in your castle there, and we're "
 "tired of it. Its time to kill you!"
 msgstr ""
+"È vero. Tieni tutto il cibo nel tuo castello laggiù, e siamo stanchi di "
+"tutto questo. È ora di ucciderti!"
 
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:145
 msgid ""
