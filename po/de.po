@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-06-20 21:26+0200\n"
+"POT-Creation-Date: 2006-06-21 13:14+0200\n"
 "PO-Revision-Date: 2006-06-18 11:34+0200\n"
 "Last-Translator: Hendrik Brandt <eru@gmx.li>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
@@ -159,7 +159,7 @@ msgstr "Leite Meneldur zum Entdecker"
 
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:67
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:52
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:69
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:71
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:73
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:109
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:51
@@ -180,7 +180,7 @@ msgstr "Tod von Meneldur"
 
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:71
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:56
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:73
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:75
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:77
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:113
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:55
@@ -201,7 +201,7 @@ msgstr "Tod von Madru"
 
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:79
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:64
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:81
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:83
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:85
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:125
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:63
@@ -240,8 +240,18 @@ msgstr "Nun, wir stechen in See. Ich vermute diene Stadt ist untergeengen..."
 msgid "A Naval Engagement"
 msgstr "Ein Naval Engagement"
 
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:37
+#, fuzzy
+msgid "Black the Red"
+msgstr "Tod von Black dem Schwarzen"
+
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:50
+#, fuzzy
+msgid "Aldran"
+msgstr "Admiral"
+
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:48
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:65
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:67
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:47
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:51
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:44
@@ -256,7 +266,7 @@ msgstr "Besiege alle gegnerischen Anführer"
 
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:75
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:60
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:77
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:79
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:81
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:117
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:59
@@ -275,7 +285,7 @@ msgstr "Besiege alle gegnerischen Anführer"
 msgid "Death of Black the Red"
 msgstr "Tod von Black dem Schwarzen"
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:135
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:137
 #, fuzzy
 msgid ""
 "Why do you stop us? We seek help. I come from Elensefar, which, as far as we "
@@ -284,13 +294,13 @@ msgstr ""
 "Warum hällst du uns auf? Wir suchen Hilfe. Ich komme aus Elensefar, welches, "
 "so weit wie wir es wissen, noch neulich von Orks erobert wurde!"
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:139
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:141
 msgid ""
 "You are interfering with our mission; we are trying to chase down this "
 "magician pirate."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:143
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:145
 #, fuzzy
 msgid ""
 "I'm not a pirate! I also come from Elensefar, and I must have left port a "
@@ -300,13 +310,13 @@ msgstr ""
 "Hafen erst ein paar Tage vor dem Angriff verlassen. Das war das Neuste was "
 "ich zu Ohren bekamm."
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:147
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:149
 msgid ""
 "You dog, don't bother us with your lies! You attacked a ship of the Royal "
 "Navy with your spells, and now you will pay for it!"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:151
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:153
 #, fuzzy
 msgid ""
 "I need loyal warriors from Elensefar to help me on my quest. Black the Red, "
@@ -316,7 +326,7 @@ msgstr ""
 "Black der Rote, möchtest du mir beitreten, bei der Rückeroberung Elensefars "
 "von dern Orks?"
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:155
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:157
 #, fuzzy
 msgid ""
 "Outlaws, you mean! These Elensians are all the same. Troops, destroy them!"
@@ -324,19 +334,19 @@ msgstr ""
 "Räuber meinst du! Diese Elensevarer sind alle die selben. Truppen, zerstört "
 "sie!"
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:159
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:161
 msgid "Why is a ship from Elensefar carrying bandits and thieves?"
 msgstr ""
 "Warum transportiert ein Schiff der Flotte Elensefars Banditen und Diebe?"
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:163
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:165
 msgid ""
 "They come from the... less _wealthy_ parts of Elensefar. But they are still "
 "fiercely loyal to it. They will be good fighters. I will join, if you'll "
 "have me."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:167
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:169
 #, fuzzy
 msgid ""
 "Very well. Thats not so different from my own crew. Aldran - we will not "
@@ -346,42 +356,42 @@ msgstr ""
 "dich nicht bekämpfen, solange ihr uns in frieden lasst, doch ihr müsst uns "
 "unsere Wege ziehen lassen."
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:171
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:173
 msgid ""
 "Ha! I will bring you and your ally in to Weldyn to be tried for treason. And "
 "it does not matter it is two boats to one; I have already sent a boat to "
 "inform the King, and get reinforcements."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:175
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:177
 msgid "Remember, crew, the healing grog is stored in those barrels."
 msgstr ""
 "Nur zur Erinnerung, Männer, der heilende Trunk ist in diesen Fässern "
 "gelagert."
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:205
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:239
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:207
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:241
 msgid "Ah, some nice, refreshing grog! *gulp*"
 msgstr "Ah, das schmeckt gut, erfrischend, dieser Trunk! *schluk*"
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:209
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:243
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:211
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:245
 msgid "Drinking the grog heals $temp.user_description!"
 msgstr "Dieser Trunk heilt $temp.user_description!"
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:263
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:265
 #, fuzzy
 msgid "Well, what is it anyway that you people want? Why did you help us?"
 msgstr "Gut, was ist das, was diene Läute vordern? Wahrum hilfst du uns?"
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:267
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:269
 msgid ""
 "We go out to sea, to build up an army large enough to retake Elensefar. "
 "You're an Elensian, right? I think you owe us your help. We did just save "
 "you from death, and now we have the men of Wesnoth against us in return."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:271
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:273
 msgid ""
 "Well, I have been in Elensefar, and owe some help to it. Very well. Here is "
 "what I will do. There is an island in the west that has many warriors on it "
@@ -389,11 +399,11 @@ msgid ""
 "warriors to also, if you grant me one request."
 msgstr ""
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:275
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:277
 msgid "Which is?"
 msgstr "Und was ist das?"
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:279
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:281
 msgid ""
 "I can't tell you until we reach the Western isle I told you about. That's "
 "part of the fun."
@@ -401,14 +411,14 @@ msgstr ""
 "Das kann ich dir nicht sagen, bis wir die westliche Insel erreicht haben, "
 "von der ich dir erzählt habe. Das ist ein Teil der Spaßes."
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:283
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:285
 msgid ""
 "Oh, fine... 'I swear on Elensefar my city and on my honor as a Sailor that I "
 "will honor your request, whatever it may be, whenever we reach this Western "
 "island and you secure the help of the warriors that live there.' Happy?"
 msgstr ""
 
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:287
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:289
 msgid ""
 "Very much so. Now, I will move my troops to your boat (it is faster), and we "
 "will head on west..."
