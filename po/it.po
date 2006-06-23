@@ -276,14 +276,12 @@ msgid "A Naval Engagement"
 msgstr "Uno scontro navale"
 
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:37
-#, fuzzy
 msgid "Black the Red"
-msgstr "Morte di Nero il Rosso"
+msgstr "Nero il Rosso"
 
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:50
-#, fuzzy
 msgid "Aldran"
-msgstr "Ammiraglio"
+msgstr "Aldran"
 
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:48
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:67
@@ -2344,13 +2342,12 @@ msgstr ""
 "meglio di te!"
 
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:140
-#, fuzzy
 msgid ""
 "That right. You' keeping all the food in your castle there, and we' tired of "
 "it. Its time to get a new king 'round 'ere!"
 msgstr ""
 "È vero. Tieni tutto il cibo nel tuo castello laggiù, e siamo stanchi di "
-"tutto questo. È ora di ucciderti!"
+"tutto questo. È ora di avere un altro re da queste parti!"
 
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:144
 msgid ""
