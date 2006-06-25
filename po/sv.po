@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-06-21 13:14+0200\n"
-"PO-Revision-Date: 2006-03-13 02:59+0100\n"
+"PO-Revision-Date: 2006-06-25 18:13+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.1\n"
+"X-Generator: KBabel 1.11.2\n"
 
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:3 Saving_Elensefar.cfg:11
 msgid "Saving Elensefar"
@@ -272,14 +272,12 @@ msgid "A Naval Engagement"
 msgstr "En sammandrabbning till havs"
 
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:37
-#, fuzzy
 msgid "Black the Red"
 msgstr "Black Röde dör"
 
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:50
-#, fuzzy
 msgid "Aldran"
-msgstr "Amiral"
+msgstr "Aldran"
 
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:48
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:67
@@ -2304,13 +2302,12 @@ msgstr ""
 "och med en häxmästare skulle vara bättre än du!"
 
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:140
-#, fuzzy
 msgid ""
 "That right. You' keeping all the food in your castle there, and we' tired of "
 "it. Its time to get a new king 'round 'ere!"
 msgstr ""
 "Så är det! Du behåller all mat i ditt slott och vi är trötta på det. Det är "
-"dags att döda dig!"
+"dags att sätta en ny kung på tronen!"
 
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:144
 msgid ""
