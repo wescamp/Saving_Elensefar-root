@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-06-21 13:14+0200\n"
-"PO-Revision-Date: 2006-06-18 11:34+0200\n"
+"PO-Revision-Date: 2006-07-25 12:38+0200\n"
 "Last-Translator: Hendrik Brandt <eru@gmx.li>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -361,7 +361,7 @@ msgid ""
 "Ha! I will bring you and your ally in to Weldyn to be tried for treason. And "
 "it does not matter it is two boats to one; I have already sent a boat to "
 "inform the King, and get reinforcements."
-msgstr ""
+msgstr "Ha! Ich werde dich und deine Verbündeten naWeldyn bringen"
 
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:177
 msgid "Remember, crew, the healing grog is stored in those barrels."
@@ -417,6 +417,8 @@ msgid ""
 "will honor your request, whatever it may be, whenever we reach this Western "
 "island and you secure the help of the warriors that live there.' Happy?"
 msgstr ""
+"Oh, schön... Ich schwöre bei Elesefar meine Stadt un auf miene Ehre als "
+"Seeman, das "
 
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:289
 msgid ""
@@ -449,6 +451,8 @@ msgid ""
 "Black, why have you brought us here?!? This is just a remnant of a town, and "
 "there are no warriors here, just undead and orcs!"
 msgstr ""
+"Black, warmu hast du uns hier her gebracht?!? Das sin nur die Überreste "
+"einer Stadt, und hier sind keine Krieger, nur Untote und Orks!"
 
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:133
 msgid ""
@@ -469,7 +473,7 @@ msgstr ""
 msgid ""
 "I would assume that is what he means, yes. So, Black, you've brought us here "
 "to have these Wesfolk help us?"
-msgstr ""
+msgstr "Ich würde vermuten, dass das ist "
 
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:145
 msgid "Well, yes, something like that."
@@ -493,6 +497,8 @@ msgid ""
 "Well, yes it is. You have to help them secure this city before they will "
 "help you."
 msgstr ""
+"Gut, ja, so ist es. Du musst ihnen helfen, diese Stadt zu sichern, bevor sie "
+"dir helfen."
 
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:161
 msgid "Help them? Help Islefolk? Why would we do that?"
@@ -503,6 +509,8 @@ msgid ""
 "These are not Islefolk, brother, they are descendants of the Wesfolk who "
 "came over with Lady Jessica."
 msgstr ""
+"Das ist nicht das Inselvolk, Bruder sie sind die Nschkommenschaft des Volkes "
+"von Wesnoth, welche mit Lady Jessica herkamen."
 
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:169
 msgid ""
@@ -548,6 +556,8 @@ msgid ""
 "Well, we've cleared the orcs away. Come on, now you have to hold up your end "
 "of the bargain."
 msgstr ""
+"So, wir haben die Orks beseitigt. Komm schon, du musst dich jetzt auch schon "
+"an dienen Teil der Abmachung halten."
 
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:213
 msgid ""
@@ -1278,6 +1288,7 @@ msgstr "Ja, wir haben ihn mehrfach angegriffen."
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:118
 msgid "Again, why does that give them reason to sacrifice our city?"
 msgstr ""
+"Und abermals, warum sollte ihnen einen Grund geben, unsere Stadt zu opfern?"
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:122
 msgid ""
@@ -1289,6 +1300,8 @@ msgstr ""
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:126
 msgid "That is called treachery, and would not excuse alliance with the orcs."
 msgstr ""
+"Sowas wird Verrat gennant und würde die Allianz mit den Orks nicht "
+"entschuldigen."
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:130
 msgid ""
@@ -1315,6 +1328,8 @@ msgid ""
 "What is this, a mage walks clad in black? Explain yourself! Are you of the "
 "red mages, or the white?"
 msgstr ""
+"Was is das? Ein Magier der sich in Schwartz kleidet? Erkläre mir das! Bist "
+"du einer der roten Magier, oder einer der Weißen?"
 
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:84
 msgid ""
@@ -1954,6 +1969,8 @@ msgstr ""
 msgid ""
 "What are you doing here? My quarrel is with the Wesnothians, not with you."
 msgstr ""
+"Was macht du hier? Ich habe eine Auseinandersetztung mit dem Volk von "
+"Wesnoth, nicht mit dir."
 
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:119
 msgid ""
