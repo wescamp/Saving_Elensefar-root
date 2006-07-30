@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-06-21 13:14+0200\n"
-"PO-Revision-Date: 2006-07-25 12:38+0200\n"
+"PO-Revision-Date: 2006-07-27 12:59+0200\n"
 "Last-Translator: Hendrik Brandt <eru@gmx.li>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -640,11 +640,16 @@ msgid ""
 "elves, men and orcs would fight each other, Meneldur still had to fight all "
 "of them."
 msgstr ""
+"Das waren wilkommengeheisene Nachrichten auf dem Entdecker. Wie dem auch "
+"sei, obwohl sich die Elfen, Menschen und Orks gegenseitig bekämpfen würden, "
+"hatte Melendur immernoch alle drei Rassen zu besiegen."
 
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:295
 msgid ""
 "The first enemy we will encounter will be the elves. Show them no mercy!"
 msgstr ""
+"Der erste Feind den wir treffen werden die Elfen sein. Zeigt ihnen keine "
+"Gnade!"
 
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:299
 msgid "And we will show you none. Prepare to meet your doom!"
@@ -1110,6 +1115,8 @@ msgstr ""
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:70
 msgid "They were willing to sacrifice a whole city to get revenge on one elf?"
 msgstr ""
+"Sie würden einwilligen eine ganze Stadt zu Opfern, nur um sich an einem "
+"Elfen zu rächen?"
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:73
 msgid ""
@@ -1219,7 +1226,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:133
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:138
 msgid "Which is why this is rather pointless."
-msgstr ""
+msgstr "Das ist weil es eigentlich witzlos ist."
 
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:137
 msgid ""
@@ -1258,6 +1265,9 @@ msgid ""
 "So they allied with the orcs because they feared being attacked? Don't they "
 "know orcs cannot be trusted?"
 msgstr ""
+"Sie haben sich mit den Orks verbündet, aus der Angst herraus, dass sie "
+"angegriffen werden könnten? Wissen sie denn nicht, dass Orks nicht vertrauen "
+"kann?"
 
 #: Saving_Elensefar/scenarios/fake3-Epilogue.cfg:82
 msgid ""
@@ -1363,6 +1373,8 @@ msgid ""
 "Yes. And this guy looks real enough. I think we should treat him like an "
 "actual enemy."
 msgstr ""
+"Ja, und der junge sind echt genug aus. und ich denke wir sollten ihn "
+"behandel, als wenn er ein gegenwärtiger Feind ist."
 
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:104
 msgid "Yes, you should! Now, prepare to die!"
@@ -1375,6 +1387,8 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:119
 msgid "Ha! See, I can resurrect the dead! Now fear me!"
 msgstr ""
+"Ha! Schau, ich kann die Toten wiederbeleben! Ihr könnt ja jetzt versuchen "
+"mir Angst ein zu jagen!"
 
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:123
 msgid "Amazing... so the stories are true!"
@@ -1395,13 +1409,15 @@ msgstr ""
 
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:86
 msgid "Very well. Let battle commence."
-msgstr ""
+msgstr "Sehr gut. Last die Schlacht beginnen."
 
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:94
 msgid ""
 "We have plenty of time to restock the ship now. We can train our troops here "
 "for a few days."
 msgstr ""
+"Wir haben reichlich Zeit unsere Schiffe wieder zu beladen. Wir können hier "
+"für einpaar Tage unsere Truppen hier trainieren."
 
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:3
 #, fuzzy
@@ -1419,6 +1435,8 @@ msgid ""
 "Are there any inhabitants of this island? We come in peace, we just want to "
 "restock our ship and then be on our way..."
 msgstr ""
+"Gibt es hier irgentwelche Inhaber dieser Insel? Wir kommen in Frieden, wir "
+"möchten nur unser Schiff wiederbeladen, und dannwieder auf unserem Wege#sein."
 
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:110
 #, fuzzy
@@ -1446,6 +1464,9 @@ msgid ""
 "enemies, who stole your boat. I will lend you the aid of my fighters to get "
 "it back."
 msgstr ""
+"Ich bin der Führer eines großen Meermannstammes. Ich denke es waren die "
+"Seetäufel, unsere Feind, die euer Boot gestohlen haben. Ich werde dir die "
+"Hilfe meiner Krieger leihen, damit ihr euer Schiff wiederhohlen könnt."
 
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:150
 msgid "Hey, look, I see the boat! Nagas are moving it southwest."
@@ -1514,6 +1535,8 @@ msgid ""
 "I will leave you now, but the fighters who fought for you will still help "
 "you, they say."
 msgstr ""
+"Ich werde dich jetzt verlassen, aber die Kämpfer aber die Kämpfer die für "
+"dich gekämft haben, werden dir immer noch helfen, sagten sie."
 
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:3
 msgid "Fire Island"
@@ -1540,10 +1563,14 @@ msgid ""
 "They do not look like they belong on this island. Perhaps they came from the "
 "south? In any case, they don't look friendly."
 msgstr ""
+"Sie sehen  nicht aus, als wenn die zu der Insel gehörten. Vielleicht kommen "
+"sie aus dem Süden. Auf jeden Fall sehen sie nicht freundich aus."
 
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:102
 msgid "True. Well then, we should defeat them so we can reprovision!"
 msgstr ""
+"Das ist wahr. Schön, wir sollten sie besiegen, so könnten wir wieder "
+"aufladen."
 
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:3
 msgid "Traitors"
@@ -1558,6 +1585,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:115
 msgid "There are none here, but trust me, they remain against you."
 msgstr ""
+"Hier sind keine, aber vertraue mir, sie verharren Irgentwo um dich zu holen."
 
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:119
 msgid ""
@@ -1625,8 +1653,10 @@ msgid ""
 msgstr ""
 
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:181
+#, fuzzy
 msgid "Nor do I. Probably more enemies."
 msgstr ""
+"Ich werde weder das Eine noch das Andere machen. Vermutlich noch mehr Feinde."
 
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:191
 msgid ""
@@ -1653,10 +1683,13 @@ msgstr ""
 "Krieger, in unserer Armee."
 
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:229
+#, fuzzy
 msgid ""
 "Gladly! Also, there is some gold here that Kalandur was saving... you can "
 "take it, since you did defeat him."
 msgstr ""
+"Glücklicherweise! Also, hier ist etwas Gold, das Kalandur bei sich hatte... "
+"du kannst es nehmen, du hast ihn ja besiegt."
 
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:3
 #, fuzzy
@@ -1723,6 +1756,9 @@ msgid ""
 "The elves are willing to surrender Elensefar to orcs, just because they "
 "began to lose a few battles? We really need to get back there, soon."
 msgstr ""
+"Die Elven willigen ein, Elensefar aufzugeben und es den Orks da zu lassen, "
+"und das nur weil sie ein paar Kämpfe verlohren haben? Wir müssen wirklich "
+"bald wieder zurück."
 
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:154
 msgid ""
@@ -1738,6 +1774,10 @@ msgid ""
 "sea. We probably won't see them until we reach Elensefar... we will have "
 "many enemies when we get there."
 msgstr ""
+"Mit dem toten Alandur, denke Ich, haben wir alle Elfen besiegt, die sich auf "
+"dem Meer befanden haben. Wir werden sie wahrscheinlich nicht wieder sehen, "
+"bis wir Elensefar erreiht haben... wir werden viele Feind haben, wenn wir "
+"dort angekommen sind."
 
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:174
 #, fuzzy
@@ -1843,7 +1883,7 @@ msgstr ""
 
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:3
 msgid "A King's Demand"
-msgstr ""
+msgstr "Die Erforderung des Königs"
 
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:97
 #, fuzzy
@@ -1869,9 +1909,12 @@ msgid ""
 msgstr ""
 
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:109
+#, fuzzy
 msgid ""
 "He is right. We can defeat these forces, and rid this area of their lordship."
 msgstr ""
+"Er hat recht. Wir können diese Truppen besiegen, und dieses Zeitalter der "
+"Herrschaft beenden."
 
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:113
 msgid ""
@@ -2139,6 +2182,8 @@ msgid ""
 "They had 100 gold stored in their ship, and enough provisions to restock our "
 "ship."
 msgstr ""
+"Sie hatten 100 Goldstücke in ihrem Schiff, und genug Proviant um unser "
+"Schiff zu beladen."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:3
 #, fuzzy
@@ -2168,6 +2213,8 @@ msgstr ""
 msgid ""
 "Each of their ships has enough provisions to completely restock your ship."
 msgstr ""
+"Jedes ihrer Schiffe hat genug Verflegung, um unser Schiff komplett beladen "
+"zu können."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:68
 msgid ""
@@ -2209,7 +2256,7 @@ msgstr ""
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:348
 msgid "We have unfinished business to attend to."
-msgstr ""
+msgstr "Wir haben uns um unvolendete Geschäfte zu kümmern."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:403
 msgid ""
@@ -2225,7 +2272,7 @@ msgstr ""
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:429
 msgid "We have ran out of provisions.... *urgh*"
-msgstr ""
+msgstr "Wir haben keine Verflegung mehr... *urgh*"
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:644
 msgid ""
@@ -2251,7 +2298,7 @@ msgstr ""
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:688
 msgid "This island looks vaguely elvish."
-msgstr ""
+msgstr "Diese Insel sieht nicht gerade elfisch aus."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:698
 #, fuzzy
@@ -2262,6 +2309,8 @@ msgstr "Lebt hier Irgentetwas in diesem gefrorenem Ödland?"
 msgid ""
 "I see signs of a Wesnothian outpost. Odd they would come so far south..."
 msgstr ""
+"Ich sehe Schilder von einem wesnothschen Ausenposten.  Merkwürdig, dass sie "
+"so weit von Süden gekommen sind..."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:722
 #, fuzzy
