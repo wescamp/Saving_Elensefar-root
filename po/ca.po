@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-06-21 13:14+0200\n"
-"PO-Revision-Date: 2006-09-12 19:58+0200\n"
+"PO-Revision-Date: 2006-09-20 08:41+0200\n"
 "Last-Translator: Jose Gordillo\n"
 "Language-Team: Català <wesnoth-ca@lists.ettin.org>\n"
 "MIME-Version: 1.0\n"
@@ -147,7 +147,6 @@ msgstr ""
 "de sa casa a les terres elfes, que li acompanyaren als seus viatges."
 
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:48
-#, fuzzy
 msgid ""
 "Now our story begins. On a night about 10 years after he first came to "
 "Elensefar, Meneldur returned to Elensefar from a trading voyage to the Bay "
@@ -278,14 +277,12 @@ msgid "A Naval Engagement"
 msgstr "Encontre naval"
 
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:37
-#, fuzzy
 msgid "Black the Red"
-msgstr "Mort de Negre el Roig"
+msgstr "Negre el Roig"
 
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:50
-#, fuzzy
 msgid "Aldran"
-msgstr "Almirall"
+msgstr "Aldran"
 
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:48
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:67
@@ -1797,6 +1794,9 @@ msgid ""
 "only following the commands of their twisted leader. Perhaps if we spare "
 "them their lives, they will join us after we defeat them."
 msgstr ""
+"Vaja, hem hagut de matar un elf! Nom m'agrada açò... ells no són malvats, "
+"només segueixen les ordres del seu retort líder. Tal vegada si els "
+"perdonàrem ses vides, s'unirien a nosaltres després que els derrotàrem."
 
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:177
 msgid ""
@@ -2328,13 +2328,12 @@ msgstr ""
 "que tu!"
 
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:140
-#, fuzzy
 msgid ""
 "That right. You' keeping all the food in your castle there, and we' tired of "
 "it. Its time to get a new king 'round 'ere!"
 msgstr ""
 "Sí! Tens tot el menjar dins del teu castell allí, i ja n'estem farts. És "
-"hora de matar-te!"
+"hora de matar-te i provar 'en' un nou rei per aquí!"
 
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:144
 msgid ""
@@ -2451,7 +2450,6 @@ msgid "Take more than 30 weeks to reach the western lands"
 msgstr "Trigar més de 30 setmanes per arribar a les terres a l'oest"
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:209
-#, fuzzy
 msgid ""
 "We have left Elensefar in the hands of the orcs. If we do not return soon, "
 "it will be of no use to return at all. We have at most 30 weeks to get to "
@@ -2459,7 +2457,9 @@ msgid ""
 "spoken of. That will leave us with 5 weeks to get back."
 msgstr ""
 "Hem deixat Elensefar en mans dels orcs. Si no tornem prompte, no tindrà cap "
-"valor tornar de nou. Tenim, com a molt, 50 setmanes per tornar."
+"valor tornar de nou. Tenim, com a molt, 30 setmanes per arribar a les terres "
+"de l'oest, on trobarem la gent de la que ens ha parlat Negre el Roig. Això "
+"ens deixarà només amb unes 5 setmanes per tornar."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:213
 msgid ""
@@ -2483,13 +2483,12 @@ msgid "We have unfinished business to attend to."
 msgstr "Tenim assumptes irresoluts que requereixen la nostra atenció."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:403
-#, fuzzy
 msgid ""
 "We only have enough provisions for $turnsleft weeks; we must reach the "
 "Western Lands in $gameleft weeks."
 msgstr ""
-"Tenim provisions per a $turnsleft weeks.\n"
-"Hem d'arribar a Elensefar en $gameleft weeks."
+"Tenim provisions per a $turnsleft weeks; hem d'arribar a les terres de "
+"l'oest en $gameleft weeks."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:419
 msgid ""
