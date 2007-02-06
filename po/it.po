@@ -944,7 +944,7 @@ msgstr ""
 "La città è caduta, ma Meneldur ed il suo equipaggio sono riusciti a "
 "scappare. Lasciando il porto e guardando indietro verso la città, notarono "
 "qualcosa di strano. Gli orchi non stavano bruciando la città e "
-"seccheggiandola, come facevano di solito; invece la stavano ignorando, "
+"saccheggiandola, come facevano di solito; invece la stavano ignorando, "
 "concentrandosi sul castello del signore. Sembrava che volessero controllare "
 "la città invece di distruggerla."
 
@@ -1946,7 +1946,7 @@ msgid ""
 "many enemies when we get there."
 msgstr ""
 "Con Alandur morto, credo che abbiamo sconfitto tutti gli elfi che navigano "
-"sul mare. Non ne vedremo altri fino as Elensefar.. avremo molti nemici una "
+"sul mare. Non ne vedremo altri fino ad Elensefar... avremo molti nemici una "
 "volta giunti laggiù."
 
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:174
@@ -2556,7 +2556,7 @@ msgstr "Quest'isola ha un aspetto vagamente elfico."
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:698
 msgid "Does anything live in this frozen wasteland?"
-msgstr "C'è qualcosa che sopravvia ancora in questa terra desolata?"
+msgstr "C'è qualcosa che sopravviva ancora in questa terra desolata?"
 
 #: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:712
 msgid ""
