@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-06-21 13:14+0200\n"
-"PO-Revision-Date: 2006-06-25 18:13+0200\n"
+"PO-Revision-Date: 2007-06-27 23:25+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.2\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:3 Saving_Elensefar.cfg:11
 msgid "Saving Elensefar"
@@ -988,9 +988,9 @@ msgid ""
 "swiftness over the boat. The next thing Meneldur and his men knew, they had "
 "reached the delta of the Great River, where Elensefar was built."
 msgstr ""
-"Nekromantikerna som var ombord på skeppen kastade en mörkrets och "
-"snabbhetens besvärjelse över båten. På ett ögonblick var Meneldur och hans "
-"mannar i den stora flodens delta, där Elensefar låg."
+"Nekromanterna som var ombord på skeppen kastade en mörkrets och snabbhetens "
+"besvärjelse över båten. På ett ögonblick var Meneldur och hans mannar i den "
+"stora flodens delta, där Elensefar låg."
 
 #: Saving_Elensefar/scenarios/fake2-Return_to_Elensefar.cfg:74
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:108
@@ -1467,7 +1467,7 @@ msgid ""
 "necromancer?!?"
 msgstr ""
 "Vad? Menar du att den store häxmästaren Jevyan inte längre regerar på "
-"kontinenten eller att hans magiker inte längre bär nekromantikernas skrudar?!"
+"kontinenten eller att hans magiker inte längre bär nekromanternas skrudar?!"
 
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:88
 msgid ""
@@ -1475,14 +1475,14 @@ msgid ""
 "suppose you think you are a real necromancer too."
 msgstr ""
 "Vad? Varför talar du om saker som bara finns i gamla legenderna? Du tror "
-"säkert att du är en riktig nekromantiker också."
+"säkert att du är en riktig nekromant också."
 
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:92
 msgid ""
 "Why do you say he's not a necromancer? I've seen them before, haven't you?"
 msgstr ""
-"Varför säger du att han inte är en riktig nekromantiker? Jag har sett dem; "
-"har inte du gjort det?"
+"Varför säger du att han inte är en riktig nekromant? Jag har sett dem; har "
+"inte du gjort det?"
 
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:96
 msgid "Are you saying undead exist?"
