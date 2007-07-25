@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-06-21 13:14+0200\n"
-"PO-Revision-Date: 2007-06-27 23:25+0200\n"
+"PO-Revision-Date: 2007-07-25 18:00+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -249,7 +249,7 @@ msgstr "Madru dör"
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:75
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:68
 msgid "Turns run out"
-msgstr "Tiden tar slut"
+msgstr "Dragen tar slut"
 
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:193
 msgid ""
@@ -291,7 +291,7 @@ msgstr "Aldran"
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:55
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:52
 msgid "Defeat enemy leader"
-msgstr "Besegra fiendeledaren"
+msgstr "Besegra fiendens ledare"
 
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:75
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:60
